@@ -1,0 +1,269 @@
+# Author: Squire, M. & Gazda, R.
+# License: Open Database License 1.0
+# This data momHicss2015.tsv is made available under the 
+# Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. 
+# Any rights in individual contents of the database are licensed under the 
+# Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/ 
+#
+# filename: momHicss2015.tsv
+# explanation: 
+# This data set is part of a larger group of data sets
+# described in the paper below, and hosted on the FLOSSmole.org site. 
+#
+# fields:
+# group: this is the software project
+# medium: this is the type of communication artifact (irc or email)
+# date: 
+# sl_speaker: chatter who uttered the setup line / straight line (if any)
+# straight line: the line that prompted the mom joke
+# mom_speaker: chatter who uttered the mom joke
+# mom_joke: the line that includes the mom joke
+# coder: the person who coded these responses and setup lines
+#
+# Please cite the paper and FLOSSmole as follows:
+#
+# Citations:
+# Squire, M. & Gazda, R. (2015). FLOSS as a source for profanity 
+# and insults: Collecting the data. In Proceedings of 48th 
+# Hawai'i International Conference on System 
+# Sciences (HICSS-48). IEEE. Hawaii, USA. 5290-5298.
+#
+# Howison, J., Conklin, M., & Crowston, K. (2006). FLOSSmole: A 
+# collaborative repository for FLOSS research data and analyses. 
+# International Journal of Information Technology and Web 
+# Engineering, 1(3), 17–26.
+# 
+group	medium	date	sl_speaker	straight line	mom_speaker	mom_joke	coder
+django	irc	9/11/2012			babysuperman	alright noting: no more your mom jokes for bradleyayers	ms
+django	irc	7/22/2011			eyepulp	Your mom can read pip's stuff...	ms
+openstack	irc	12/30/2010	gholt	I wrote that particular stuff. And long before it was known we'd go "public" with it. Nice find.	jdarcy	Not quite as bad as test.yourmom, though.	ms
+perl6	irc	3/23/2005	nothingmuch	i haven't done much either	stevan	nothingmuch: thats your mom :)	ms
+perl6	irc	10/18/2006	PerlJam	ingy: There was an accident on a major highway here the other day. An 18-wheeler switched lanes into a car which spun out and hit another car which was knocked into a lady on a motorcycle. Â Guess who was the only one to get seriously hurt?	ingy	PerlJam: your mom?	ms
+perl6	irc	6/1/2009	FurnaceBoy	hm. need to introduce deliberate imperfections	*Â masak	supresses a 'your mom' joke	ms
+perl6	irc	12/8/2009	jnthn	Submethod	masak	.oO( "your mom is so Callable, she has a postcircumfix:<( )> method..." )	ms
+perl6	irc	7/14/2010	moritz_	tylercurtis: note that this probably parses as .= (new() but Foo) and spits out nonesense	cxreg	your mom is an infinite iterator	ms
+perl6	irc	1/27/2012	timotimo	that's excellent!	jnthn	So was your mom!	ms
+perl6	irc	5/14/2012	PerlJam	I guess both orca and sharks are in the same phylum, so ... maybe there's some sense to be had.	masak	PerlJam: your mom is in the same phylum!	ms
+perl6	irc	5/14/2012	masak	PerlJam: your mom is in the same phylum!	masak	srsly toothless "your mom" insults, part 18.	ms
+perl6	irc	7/5/2012	pmichaud	the disks are especially sensitive to the Higgs field.	seldon	I sense a whole new class of "your mom" jokes.	ms
+perl6	irc	7/5/2012	seldon	I sense a whole new class of "your mom" jokes.	*Â masak	wonders at which point during the 1900's prof. Higgs got tired of hearing "your mom" jokes	ms
+perl6	irc	1/31/2013	masak	early findings: both the atom feed and the generated static html files contain the null bytes.	diakopter	your mom contains the null bytes	ms
+perl6	irc	3/16/2013	timotimo	isn't that a bit unwieldy?	diakopter	oh, and, your mom is a bit unwieldy. Â not to mention she's a Brownian tree.	ms
+perl6	irc	3/16/2013	p6eval	pugs: OUTPUTÃ‚Â«\\(undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undef, undefÃ¢â‚¬Â¦	diakopter	your mom is undef	ms
+perl6	irc	3/16/2013	TimToady	masak: when you use a module, you're assumed to be mutating your language. Â a circular use structure would then imply that you're new language is determined by a module that you didn't really know the language of when you used it. Â hence it is considered undefined, and pink zebras will fly out of your nose	*Â jnthn	read that as "pink zebras will fly out of your mom" :P	ms
+perl6	irc	3/18/2013	jnthn	Though it should probably be giving an undeclared error. Or just being 6ier.	diakopter	your mom is 6ier	ms
+perl6	irc	3/18/2013	jnthn	NQP tends to do less magical things, though.	diakopter	also, your mom does less magical things	ms
+perl6	irc	3/23/2013	masak	Jennifer Lawrence is a prefix operator in Perl 6.	diakopter	your mom is a sink operator	ms
+perl6	irc	3/25/2013	diakopter	r: require "v5";	diakopter	r: require "your mom";	ms
+perl6	irc	4/9/2013	diakopter	your mom is an umarshallable value	dalek	rakudo/nom: DUMP(): Handle unmarshallable values in native hashes by marking the entire native hash contents unmarshallable and continuing	ms
+perl6	irc	8/26/2013	diakopter	you're a tree	jnthn	so's your mom	ms
+perl6	irc	8/27/2013	yoleaux	tadzik: Sorry, that command (.tr) crashed.	tadzik	your mom crashed	ms
+perl6	irc	11/8/2013	jnthn	p: Order::<&Blafu> = anon sub Blafu() is DEPRECATED { 1 }; say Order::Blafu	jnthn	p: Order::<&Blafu> = anon sub Blafu() is DEPRECATED('your mom') { 1 }; say Order::Blafu	ms
+perl6	irc	11/8/2013	jnthn	p: Order::<&Blafu> = anon sub Blafu() is DEPRECATED('your mom') { 1 }; say Order::Blafu	camelia	rakudo-parrot 5bd51c: OUTPUTÂ«1â¤Saw 1 call to deprecated code during execution.â¤=====================================â€‹===========================================â¤Sub Blafu (from GLOBAL) called at:â¤ Â /tmp/_MpLD6MQMh, line 1â¤Please use your mom instead.â¤---------------------â€¦Â»	ms
+perl6	irc	1/6/2014	moritz	masak: you can write that method once, and then .^add_method it as many times as you want.	japhb	masak: <channelling diakopter> So does your mom.	ms
+ubuntu	irc	10/19/2004	whiprush	clee: walters rules. He's all quiet and reserved.	clee	whiprush: heh. until you introduce him to your mom.	rg
+ubuntu	irc	10/19/2004	clee	but he's very fond of saying "Your mama" in response to pretty much anything	joem	dude where is tagging support "uh, I left it at your moms last night"	ms
+ubuntu	irc	11/10/2004	Echylo	now, it has to be shutdown for saving some energy	Phr0stByte	Echylo: tell your mom that the system really does not suck much juice - its the monitor that needs to be shut off	ms
+ubuntu	irc	11/10/2004	Echylo	Phr0stByte, nice try, I already used that argument	thoreauputic	Echylo: tell your mom that every time you boot it brings the national electric grid to its knees	ms
+ubuntu	irc	11/11/2004	kapputu	does Mark Shuttleworth come to this channel ?	jason_	Does your Mom smile when she sees me	rg
+ubuntu	irc	11/20/2004	drakonim	OK lets see what hoary has to offer... rebooting. be back in a momento!		unperson cannot switch to hoary. It would provoke too many "your mom" jokes.	rg
+ubuntu	irc	11/22/2004	Rene_S	I beg to differ, for 10 years I have gotten one woman to take care of all my needs.	khronic	Your mom doesn't count	rg
+ubuntu	irc	11/29/2004	skeletor	where is sh0es?	s0cks	In your mom skeletor.	rg
+ubuntu	irc	1/1/2005	djuuss	specially if it should fit with "hoary warthog"	djuuss	(e.g. don't record your mom as a sound theme just because she fits the description)	rg
+ubuntu	irc	1/15/2005	Gwildor|Work	circle jerk........who's in the middle?	zenwhen	Your mom. :)	rg
+ubuntu	irc	3/31/2005	Kate	im a poor 13 yearold! how am i supposed to afford broadband?	Rene_S	Convince your mom that it will keep you from doing drugs ... Parents are suckers for that	rg
+ubuntu	irc	5/8/2005	stevenj	has anyone of you ever had a crazy ex GF that called 100x with 10 differnent calling card numbers?	g14	stevenj: like... your mom?	rg
+ubuntu	irc	5/24/2005	Shufla	ruby: and i won't 'fuck off', please watch your wards...	ruby	fuck ur mom's ass Shufla	ms
+ubuntu	irc	5/27/2005	Razor-X	the first distro that doesen't fel like "You have to do everything" like Slackware or Gentoo, and not "We'll give everything and your mom, plus more" distros like Fedora and Knoppix	Madpilot	Razor-X: you give your mom away with linux distros? doesn't she mind? :)	rg
+ubuntu	irc	6/6/2005	Arrogant	My mom says "Why use Linux nobody uses Linux, why do you have to be different all the time"	HC-	tell your mom to stfu noob	rg
+ubuntu	irc	7/19/2005	apokryphos	tanki: story in the paper recently of two who got married before ever seeing each other in "real life"	tanki	that would be an interesting story to tell your kids, yeah i met your mom in EQ, i was a monk and she was a fierry, i had more experience points but she had potions so we hooked up	ms
+ubuntu	irc	7/25/2005	bojangles	ColonelKernel, eat shit and die you fuckin bastard from HELL	ColonelKernel	bojangles, we control the media too, so we're gonna let loose those nasty tapes your mom did in germany.	rg
+ubuntu	irc	8/3/2005	NekoNeko	at least on the good side for ubuntu, my mom who has never touched linux before was able to install it without my help ^^	dr_willis	My Mom is l33ter then Your Mom!	rg
+ubuntu	irc	8/26/2005	stizoner	actually linux is extreamly easy 2 use for idiots, my moms pc has ubuntu on it and she never has a problem, because she doesnt do a single thing except browse the web and thats it	deFrysk	stizoner, your mom is an idiot you mean ?	rg
+ubuntu	irc	10/29/2005	lsuactiafner	HaroldJohnson_ : wth?	HaroldJohnson_	lsuactiafner, Just like your mom and I we're laughing over you in bed last night	ms
+ubuntu	irc	11/8/2005	bob2	glyn: you could enlarge the partition then	zenwhen	your momma sucked my ang	ms
+ubuntu	irc	11/9/2005	ubotu	jamest: Syntax error in line 1	jamest	!syntax your mom!	rg
+ubuntu	irc	11/17/2005	ubotu	Yes, yes! Yes indeed. Who would have thought it, eh, xx94?	xx94	!your momma	rg
+ubuntu	irc	11/23/2005	ispiked	Venson: my mom could do it...	Venson	ispiked: congratulate your mom for me...	ms
+ubuntu	irc	12/5/2005	perryp	you fucking fuckhead	alexisc	go fuck your mom :)	rg
+ubuntu	irc	12/24/2005	nlfsoftware	tonnyarusso, sorry I a newbie, what is fsck? and how I doit?	spanglesontoast	I love to fsck your mom heh	rg
+ubuntu	irc	1/10/2006	PuMpErNiCkLe	jack|ass: mplayer is ass. Try VLC. :)	jack|ass	PuMpErNiCkLe: Your momma's ass! :)	ms
+ubuntu	irc	1/17/2006	s_spiff{AWAY}	erratic, no codecs for whom?	erratic	your mom	ms
+ubuntu	irc	1/17/2006	_jason	erratic, no one is going to help you with that attitude...	erratic	well nobody's ever gonna do your mom	rg
+ubuntu	irc	1/17/2006	Madpilot	ajmitch: just kick erratic please, he's been trolling for a few minutes now...	erratic	your mom needs a good kicking	rg
+ubuntu	irc	3/4/2006	michaelri	suck my balls	alexisc	i will leave that to your mom	rg
+ubuntu	irc	3/31/2006	shoo-shu	its all about something attempted to dump a core file	tamale	i dumped a core on your mom last night	rg
+ubuntu	irc	4/3/2006	The_Answer	just installed ubuntu (breezy badger) new to linux I came home and my mom went to check her mail and firefox asked her to create a new user, well she did and now icons pop up on the desktop everytime I sign on mozilla, I already tried uninstalling it... any ideas?	healot	The_Answer: just create a new user profile, so you and your mom wouldn't have to share your porn site history :)	rg
+ubuntu	irc	4/6/2006	fartbutt	fuck yall dipshits, ur moms suck in bedfuck yall dipshits, ur moms suck in bed	fartbutt	fuck yall dipshits, ur moms suck in bed	ms
+ubuntu	irc	4/27/2006	TokenBad	I know its not mounted	trainstroker	YOUR MOM IS FAT32 XD	ms
+ubuntu	irc	4/27/2006	hajuu	me2win, NO YOUR MUM JOKES?? What is the world comming to...	Madpilot	hajuu, #ubuntu-offtopic can probably tolerate a small number of 'your mom' jokes - provided they're actually funny...	ms
+ubuntu	irc	4/27/2006	Madpilot	hajuu, #ubuntu-offtopic can probably tolerate a small number of 'your mom' jokes - provided they're actually funny...	kestas	your mom can probably tolerate a small number of 'your mom' jokes	rg
+ubuntu	irc	5/11/2006	ollo82	which difference?	|Sivik|	ollo82: your mom	ms
+ubuntu	irc	6/4/2006	PingPongChamp	What is the best gnome theme ever?	plastic	pingpong the your momma theme	ms
+ubuntu	irc	6/5/2006	DarkLegacy	I have pics too	poje	DarkLegacy: I have pics of your mom ;o	ms
+ubuntu	irc	6/5/2006	vbgunz	everybody here is ugly	jpoje	vbgunz: so is your mom	rg
+ubuntu	irc	6/11/2006	kieranDOA	chr1z: Are you an asshole by trade or is it just a hobby?	chr1z	kieranDOA: neither, unlike ur mom owned	ms
+ubuntu	irc	6/27/2006	Ro1	!your mom	ubotu	I know nothing about your mom	rg
+ubuntu	irc	7/8/2006	VieLGuS-KuTaS	everything is legal in russia	eigenlambda	in russia, your mom is legal	rg
+ubuntu	irc	10/1/2006	asmandeus	does mplayer do oss and alsa?	ArrenLex	asmandeus: mplayer does everything. Except your mom.	ms
+ubuntu	irc	10/1/2006	ArrenLex	asmandeus: mplayer does everything. Except your mom.	ArrenLex	or maybe even your mom. I haven't checked.	rg
+ubuntu	irc	10/12/2006	Dr_willis	I got an Image for ya to host.... :)	Dr_willis	and your momma wont like it..	rg
+ubuntu	irc	10/17/2006	Alakazamz0r	cause you're gay.	yokobr	maybe i can find a job with your mom	ms
+ubuntu	irc	10/28/2006	kelten	1337 != leet	monokrome	I showed your mom otherwize, kelten.	ms
+ubuntu	irc	10/30/2006	aaronc	anyone else using NVIDIA driver with dual head xinerama after Edgy update successfully?	henry_	UR MOM IS	ms
+ubuntu	irc	11/3/2006	O2	does anybody know whether ubuntu could sync with pocket-pc phone?	Fried^Chicken	YOUR MOM CAN SYNC WITH POCKET PHONES	rg
+ubuntu	irc	11/13/2006	printk	webguest is a troll	WebGuest	printk: so is your mom	rg
+ubuntu	irc	12/24/2006	n2diy	mc_ren: What can I say, either way would be illegal.	mc_ren	n2diy: well your mom's illegal	ms
+ubuntu	irc	1/1/2007	tripppy	this is going to be a good year	tyme-	your mom doesnt count =[	ms
+ubuntu	irc	1/11/2007	mnoir	linux_user400354: 1. i didn't know the answer. 2. learn to do your own research or you will be stuck some day. 3. learn to give back to the community	linux_user400354	mnoir: whatever, tell your mom that	rg
+ubuntu	irc	1/31/2007	ernst	I have a question, i forced my mother to use ubu, she has one complaint, she can't acces her hotmail through gaim, well only when she gets a new email, but not when she wants to, any tips....?	defrysk	ernst, never force your mom to do anything ;p	rg
+ubuntu	irc	2/1/2007	TheSkorm	yum, that pie was nice	dal	hey TheSkorm I like your momma's pie	rg
+ubuntu	irc	2/24/2007	mikejanssen	i installed wine last night	arrenlex	I installed your mom last night!	rg
+ubuntu	irc	3/5/2007		sevenpacks feeds FunnyLookinHat a fake identd	FunnyLookinHat	your mom is a fake identd	rg
+ubuntu	irc	3/11/2007		xtknight thinks aldin should learn about /me		arrenlex /me'd your mom last night.	rg
+ubuntu	irc	3/24/2007	rickyfingers	Jimmy: when you get an error message like that, there's only three possibilities I can imagine: 1) server's not running, 2) server's listening to the wrong port, 3) network connectivity issue	arrenlex	rickyfingers: 6) Your mom.	rg
+ubuntu	irc	3/29/2007	Ahorner	sudo apt-get update	Ahorner	lol sudo apt-get install your mom	ms
+ubuntu	irc	4/3/2007	Whtiger	oscar: cause your mother doesn't love you	oscar	Whtiger: Your mom like my .................	rg
+ubuntu	irc	5/11/2007	HoocH_Laptop	Pelo: Where can I find that driver ?	HUNTER8	in your moms	ms
+ubuntu	irc	6/4/2007	wapityyy	who stole the cookie from the cookie jar ?	kenmitre	your mom	rg
+ubuntu	irc	8/7/2007	PriceChild	!sudo | roundeye	roundeye	sudo your mom	ms
+ubuntu	irc	8/27/2007	Irreducibilis	I once ran Windows 95 with 4mb of ram on a 66Mhz pentium	rockets	I once ran your mom. All night long.	rg
+ubuntu	irc	9/29/2007	jim	if you're not prepared to pay my rate, I choose how I deal with people, there is not the slightest possible negotiation on that point	MasterShrek	jim, your mom doesnt charge anything	ms
+ubuntu	irc	10/1/2007	hjmills	krammer, check your other trousers	krammer	I left them at your moms	rg
+ubuntu	irc	10/20/2007	element	my ipod isn't auto mounting	oxeimon	element: your mom isn't auto-mounting	rg
+ubuntu	irc	10/25/2007	JimmyDee	yokomo, you can live without the geriatric one legged lesbian screensaver	yokomo	JimmyDee: no more than I can live without the one of your mom sucking me off	rg
+ubuntu	irc	11/22/2007	GRiMReAPeR	ok......anyway.. what ARE the games that work with WINE?	SpeakerMania	I'm sure your mom will work with Wine.	ms
+ubuntu	irc	11/24/2007	ubotu	Some things are inappropriate for #ubuntu. Controversial topics, which always turn into flamewars: war, race, religion, politics (unless related to software licencing), gender, sexuality, drugs, questionable legal activities, removing of oneself from the planet (except by space or time travel) are not for here, perhaps #off-topic or ##politics. Microsoft software in ##windows (Please note Freenode Policy) - Thanks.	Lustblader	ubotu: your mom	rg
+ubuntu	irc	11/30/2007	Dr_willis	comes up as a decent google hit on gtk themeing.	Sean|	your mom is a google	rg
+ubuntu	irc	11/30/2007	iarwain1	ebirtaid: you stink O.o	ebirtaid	your mom sucks iarwain	rg
+ubuntu	irc	12/31/2007	B-rabbit	it works fine now	imgoofygoober	i love ubuntu in your mom!	ms
+ubuntu	irc	1/17/2008	jay-oh-en	you dont even know how to hack	Xx1337HaXz0rXx	I know how to hack ur mom	ms
+ubuntu	irc	1/30/2008	Repentinus	What should I use as root password?	Repentinus	What should I use as root password?	ms
+ubuntu	irc	1/30/2008	link2126	your mom	link2126	your mom	ms
+ubuntu	irc	2/11/2008	Templario	Im not lying ubuntu is vulnerable	speeddemon8803	templario...your momma is vulnerable	rg
+ubuntu	irc	2/12/2008	badkitty	BagelMaster: Tried googleing it?	INOSHU	I tried googleing your mom?	rg
+ubuntu	irc	4/29/2008	sleepster	what's TYIA	test3r	its ur mom	ms
+ubuntu	irc	6/17/2008	Ward1983	ff3 sucks	EvilDennisR	Ward1983: I heard the same thing about your mom	rg
+ubuntu	irc	7/9/2008	Viper550	that's stupid.	sayotte	your mom's stupid	rg
+ubuntu	irc	7/26/2008	gway9000	what is the preferred method of mounting a windows shared file (samba) a drive?	k-cody-beater	your mom is the preferred method of mounting anything?	rg
+ubuntu	irc	8/8/2008	blaker	ubuntu is so gay	phenom	blaker, Your momma	rg
+ubuntu	irc	9/6/2008	johninlex	anyone know how to edit scripts	Tenshihan	your mom does	ms
+ubuntu	irc	9/11/2008	[nrx]	This one time, in band camp.	[nrx]	I saw your mom.	rg
+ubuntu	irc	10/18/2008	Xen	I'm going to turn my ubuntu machine into a robot	rodimus	xen im gonna turn your mom into a woman	rg
+ubuntu	irc	12/18/2008	psypher246	srizz: what is your problem	srizz	my problem is your mom not leaving my house, how exactly should pole a question i asked...	rg
+ubuntu	irc	3/21/2009	_Whipper	keithclark: i do not wish to repeat my self	kaski	_Whipper: me and your mom, all night long	ms
+ubuntu	irc	4/25/2009	Vague	So THAT'S a jackalope!	joe__	your moms a jackalope	rg
+ubuntu	irc	5/28/2009	thefalling	id sudo ur mom	thefalling	thats what ur mom said	ms
+ubuntu	irc	6/25/2009	matreya6	kyleQ, please be more specific, people are guessing what you want to help you. That is not efficient.	kyleQ	ur moms not efficient	ms
+ubuntu	irc	7/9/2009	btnz	i'm not talking about voip	thefalling	I voiped ur mom	ms
+ubuntu	irc	7/18/2009	jrib	badipod, thewizord: I'm going to ban both of you in a second	thewizord	WE BANNED YOUR MOM LAST NIGHT COCKKNOCKER!	rg
+ubuntu	irc	9/11/2009	steinerhippo	kmofukka: the offtopic chan would be the right for you	kmofukka	your mom would be right for me	rg
+ubuntu	irc	9/30/2009	Hansard	desert island?	grambo	your moms house	ms
+ubuntu	irc	10/6/2009	ortsvorsteher	sjokkis: it isnt family friendly, but this channel will be family friendly ;)	sjokkis	speaking of family friendly, ortsvorsteher, say hello to your mom from me	ms
+ubuntu	irc	12/6/2009	dtownhero	arghh2d2: what are you complaining about?	arghh2d2	dtownhero: your mom	rg
+ubuntu	irc	12/14/2009	chrisw	Hi all, I did aptitude remove mysql-server on one server and it asked me for confirmation, on aother it didn't and just went ahead and removed it. What config options could cause that difference in behaviour?	Trota	your moma causes config problems	rg
+ubuntu	irc	2/5/2010	krysis	does anyone know why my mic is a "playback"?	arghh2d2	your mom's a playback	ms
+ubuntu	irc	2/24/2010	bigtom21485	with a double clutch and a lockign differential	bigtom21485	ill make your moms limited slip differential drift all nigh tlong if you know what im saying	rg
+ubuntu	irc	3/30/2010	youthful	this is a test	FreezingTuesday	this is your mom	ms
+ubuntu	irc	4/16/2010	meowbuntu	i dont get this ubuntu will not losd flash drives what is going on	decker	meowbuntu: yeah, well, chill on #fedora again and be a prick, and get kicked? or almost kicked? nah, kicked was it? bah, yeah, for some reason I remember myself hating your guts. so yeah, hope your mom gets cancer	rg
+ubuntu	irc	4/21/2010	perhamlinux	abou_7anash_009: fine. then I guess the problem is in evolution itself. contact their support team	perhamlinux	any chess players here?	ms
+ubuntu	irc	4/21/2010	abou_7anash_009	perhamlinux: you motherfucker ...I suggest you go take your mom from behind doggy style ..I fucking know it is an evolution problem..why the fuck are you wasting my time ...I could have made your mother blow me one during the time I wasted on you you bastard	abou_7anash_009	perhamlinux: you motherfucker ...I suggest you go take your mom from behind doggy style ..I fucking know it is an evolution problem..why the fuck are you wasting my time ...I could have made your mother blow me one during the time I wasted on you you bastard	rg
+ubuntu	irc	4/23/2010	cage_raphel	i am trying to install ubuntu 9.1 on solaris 10.. i am running on ubuntu now .. however i am not able to boot solaris.. but i know i have installed it on the right partition.. how do i add solaris 10 to my ubuntu grub menu ?	ryan_	your mom is solaris	rg
+ubuntu	irc	5/19/2010	ubottu	helo: Usually, there is no single "best" application to perform a given task. It's up to you to choose, depending on your preferences, features you require, and other factors. Do NOT take polls in the channel. If you insist on getting people's opinions, ask BestBot in #ubuntu-bots.	helo	i choose your mom based on the features i require	ms
+ubuntu	irc	6/19/2010	qcode	I guess I can do a diff on /boot/config-2.6.18-xx-server and the one for desktop to find out the differences	kaeser_ntbk	Does your mom's dildo got foss drivers?	ms
+ubuntu	irc	10/6/2010	rafaelleandro	i love ubuntu <3	_blu	i love your moma	rg
+ubuntu	irc	11/1/2010	maco	DiegoBoy: lets not use gay as a pejorative, thanks	DiegoBoy	your mom's a pejorative!	rg
+ubuntu	irc	1/1/2011	windowripper	backtrack is the best linux distro	Steve973	windowripper your mom is the best linux distro.	rg
+ubuntu	irc	1/2/2011	stealthc	have you ever used vbox before?	electronicmaji	ive used your mom before	rg
+ubuntu	irc	3/16/2011	alesan	my problem with ubuntu is that I have installed it to my mom	Firefishe	alesan: Your mom must run very efficiently now.	rg
+ubuntu	irc	4/7/2011	faryshta	Hello. Is anyone else having troubles adding people to msn/pidging?	nickals	faryshta, yea i was trying to add your mom last night, but it just wouldnt work	rg
+ubuntu	irc	4/27/2011	Sharpclaw	What's new in Ubuntu 11.04?	LAcan	your mom	rg
+ubuntu	irc	6/6/2011	gmachine_24	is it a full moon or something	eamon	your mom's a full moon	ms
+ubuntu	irc	6/10/2011	camaleon	Who let the fogs out ?	szal	camaleon: did your mom forget to close the window while cooking? ;)	rg
+ubuntu	irc	6/28/2011	ActionParsnip	bronaugh: hardy desktop support has ended	bronaugh	ActionParsnip: so has your mom's sex drive.	rg
+ubuntu	irc	10/24/2011	MonkeyDust	digimon19: is this not the kind if info you're looking for? http://paste.ubuntu.com/717830/	digimon19	MonkeyDust: I was looking for your mom , but our technology can't find that slut. xD	rg
+ubuntu	irc	11/23/2011	IcePhoenix	where can i download boobuntu from?	IcePhoenix	ikonia, i found a pic of your mom in boobuntu wallpapers	ms
+ubuntu	irc	1/9/2012	botmaster	whast up	maddyo27	ur mom	ms
+ubuntu	irc	1/9/2012	botmaster	where can i get a bot	maddyo27	ur mom	ms
+ubuntu	irc	2/12/2012	goddard	urlin2u: thats what my mom says	urlin2u	goddard, your momma is so fat that...	ms
+ubuntu	irc	5/7/2012	Jordan_U	anick: Please don't spam random web pages here.	anick	Jordan_U: I spammed your mom's random pages last night.	ms
+ubuntu	irc	6/10/2012			cheguan	bazhang, you there? i heard your mom likes to blow goats. any truth to the rumours?	rg
+ubuntu	irc	11/11/2012	LostAsylum	scottyg_ ur network fails and your left hand is probably really sore from moving that mouse.	scottyg_	your mom doesnt fail me lost asylum...you chicken raping sodomite:)	ms
+ubuntu	irc	11/17/2012	share	Ron Paul uses Ubuntu for our safety	mike_buntu	Ron Paul bum fucked your momma	rg
+ubuntu	irc	11/21/2012	kop	MrELusiveness, domestic troubles ?	MrELusiveness	just a min iam buisy donkey punching your mom	rg
+ubuntu	irc	12/7/2012	CnetCOM	Is Canonical's pulling out due to bad economic times?	DrManhattan	CnetCOM, the only think Canonical's pulling out of is your mom.	rg
+ubuntu	irc	1/23/2013	jcxl	has anyone ever suffered from the terrible infamous affliction of kidney stones	skp1	your mom has	ms
+ubuntu	irc	3/10/2013	jkkl	Is it true Ubuntu is less prone to viruses than Windows?	jkkl	cfhowlett: Deathlire: Well, I don't get viruses from your mom either. I'm protected. So please cease and desist your blabbering. Are you trying to convice me that not getting any viruses is a symbol of high quality of your choice of software? The fact that you're attributing that characteristic to Linux has already earned you a spot on my hate list. Besides, I can make my computer immune to viruses. Just watch. Pop! Did you see that? I	ms
+ubuntu	irc	4/12/2013	MonkeyDust	THE_DUDEZ0R banned for no reason, I take it?	THE_DUDEZ0R	MonkeyDust, no just because I was hacking them badly. I already grabbed tons of encrypted info from their best servers, so they banned me. Btw your mom is hawt (from the pic on that folder u have)	rg
+ubuntu	irc	6/5/2013			scottxfarts	Hello everyone! My name is Nikita, I live in Russia, I drink vodka and play the balalaika, you bitches and motherfuckers. And I fucked your mom :)	rg
+ubuntu	irc	9/18/2013	ikonia	AcidRain2012: your machine is compromised !	nezZario	ikonia: your mom is compromised	rg
+ubuntu	irc	12/17/2013	Madkiss	that escalated quickly.	asshat	madkiss: your mom escalated quickly! I'll kill you in your sleep	rg
+wordpress	irc	6/1/2009	avarus	Anthony_Luth is not getting laid?	Anthony_Luth	last night it was your own mother ;)	rg
+wordpress	irc	7/11/2009	WDS-Brad	he said someone met their wife on WordPress	zimmermanc	I met your mom on wordpress. ahem,	rg
+wordpress	irc	7/13/2009			ansimation	i touch myself in the morning... i touch your sister at night.. oh baby, oh baby, that booty is a delight. just maybe... maybe i'll have a threesome with your mom tonight	ms
+wordpress	irc	7/15/2009			jeffr0	ACTION slaps Anthony_Luth so hard, his mom feels it	ms
+wordpress	irc	7/17/2009	incluye	What's a good local testing program then?	MACscr	your mom	rg
+wordpress	irc	7/17/2009	Anthony_Luth	ACTION smacks ansimation.	ansimation	i will bitch slap your momma	rg
+wordpress	irc	7/18/2009	MrPhy	not appropiate JSMaz	Anthony_Luth	neither is your mom	rg
+wordpress	irc	7/23/2009	ansimation	where's sivel	Anthony_Luth	probably visitin your mom ansimation ;)	rg
+wordpress	irc	8/2/2009	Anthony_Luth	my fingers dont go in anyone's butt ansimation, hahahaha	Anthony_Luth	cept your mom's	rg
+wordpress	irc	8/4/2009	jdingman[a]	Anthony_Luth, hehe, I'm in the top 10 results for "wordpress consulting" on google :)	mrlarner	your mom's in the top 10 results for...err...nevermind	rg
+wordpress	irc	8/6/2009	riots	follow me on twitter.com/gitn	paperclip_	i already follow your mom.. it might be awkward..	rg
+wordpress	irc	8/19/2009	Anthony_Luth	whats the prob?	ansimation	i'm in love with your mom ;/	rg
+wordpress	irc	11/1/2009			Viper007Bond	YUR MOM IS BAD	ms
+wordpress	irc	12/11/2009			durin-	yea tell your mom to get on irc when she has a problem	ms
+wordpress	irc	12/20/2009	scissors	Uh...that's stupid.	C0BALT	not as stupid as your MOM!	rg
+wordpress	irc	2/11/2010	WDS-Brad	what gravatar?	jdingman	WDS-Brad: it's a picture of your mom :)	rg
+wordpress	irc	7/19/2010	chaos`	Kawauso: im disappointed at your face	Kawauso	chaos`: im disappointed with your mother	rg
+wordpress	irc	9/4/2010	sivel	this is becoming tiresome	benkramer	so was doing your mom last night sivel, stfu	rg
+wordpress	irc	9/20/2010	Anomie21	an array murdered my father :(	Kawauso	did a string murder your mother?	rg
+wordpress	irc	9/21/2010	mylisto	what gave it away?	Figaroo	your mom	rg
+wordpress	irc	9/27/2010			w3prodigy	ansimation: long time listener, first time caller - i'm trying to loop through your mom but it says memory limit exceeded :D	ms
+wordpress	irc	10/12/2010	zodiac	your privacy means nothing to us, we'll sell all of your information to the highest bidder..	Jason[Groupon]	zodiac - we own you, we will sell all your data, steal your credit card numbers, and have relations with your mother. There is no recourse and visiting this site opts you into this, thank you and have a terrible day.	rg
+wordpress	irc	10/20/2010	Ghost1227	i get paid so little i owe the company money :P	mTk-Away	I get paid so little your mom ha... wait a minute... wrong joke.	rg
+wordpress	irc	12/30/2010	tw2113	now...to offend opx	tw2113	yo momma.....no too amateur	rg
+wordpress	irc	1/3/2011	tw2113	i know, i get to go home and you don't	sha1sum	tw2113: yeah well at least I get to stay at your mom's tonight	rg
+wordpress	irc	1/6/2011	wyck	you don't need php you can use ajax	tw2113	php/ajax/your mother's kitchen sink	rg
+wordpress	irc	1/14/2011			AndreaRu	I honestly haven't run across people that stupid since the late 90s when I was supporting loan officers. Generally, even the stay at home mom crowd isn't THAT stupid anymore. Where are you finding these people? Are they real estate agents? They're still pretty stupid.	ms
+wordpress	irc	1/14/2011	John_______	wordpress still sucks	tw2113	funny john, satan said the same thing of your mom	rg
+wordpress	irc	1/28/2011	dwebb	i am drinking a delicious Waialua Cream Soda	Jester831	I'm drinking your mom ;o	rg
+wordpress	irc	1/30/2011	tw2113	i could use a number of things but MrDudle isn't the person for them	tw2113	what's your mom's #?	rg
+wordpress	irc	1/31/2011			brotozoan	mysql docs have you give CRAZY permissions to wordpress by default, like, enough that it's allowed to take your sister out to a nice dinner and never call her back	ms
+wordpress	irc	2/1/2011	tw2113	you can target it by ID, slug, pretty name	sholmes	does your mom have a pretty name?	megan
+wordpress	irc	2/13/2011	kac	ive reverse engineered a lot of encryptions	WWSD	kac I reverse engineerd your mum	rg
+wordpress	irc	3/31/2011	dwebb	Jester831âˆ™ you ever eaten anything harsh? i've eaten worms, bugs, squirrel, things like that..	Jester831	your mother	rg
+wordpress	irc	4/4/2011	whatdidido	im a nice guy i didnt do anything wrong!	whatdidido	your mom thinks im awesome!	rg
+wordpress	irc	4/7/2011	triplesec	i love the "i'll insult your mom who i've never met and make you all mad and stuff" people...	sha1sum	in all honesty I did make this beef stew I'm eating right now which 0wnz your mom's vag	rg
+wordpress	irc	5/6/2011	nviror	even IIS is faster.	tw2113	so is your mom	rg
+wordpress	irc	6/2/2011	pitchfork	who cares, it can't be solved here.	tw2113	your mother	rg
+wordpress	irc	9/12/2011	fris	apis are so 90s	tw2113	so is your mom fris	rg
+wordpress	irc	9/23/2011	tw2113	put them in a nutsack first though	danmichel	like your aunt sally did last night	megan
+wordpress	irc	12/22/2011	pixolin	who babies the user now?	Comet	your mom?	rg
+wordpress	irc	1/24/2012	tw2113	i recall seeing it in the theaters with my mom	finkle	maybe your mom was a finkle fan	megan
+wordpress	irc	2/13/2012			milleja46	ShawnRisk: neither does my mom's besides some pictures and whatever else you can expect on the normal everyday mothers computer that doesn't use it that much....	ms
+wordpress	irc	2/14/2012	wycks	tw2113 lol I actually did by a camera the other day	tw2113	any clients yet? besides your mom holding a rose?	rg
+wordpress	irc	2/20/2012			scar2	did dreamhost break in and rape your mom or something? lol	ms
+wordpress	irc	4/19/2012	MadLems1	tw2113: then what'd you do????	tw2113	<scottish> i screwed your mother, trebek </scottish>	rg
+wordpress	irc	5/3/2012	tw2113	they're not people though	tra	yeah, like your mother	rg
+wordpress	irc	7/1/2012	Salacious	Mariaa, your markup is probably broken	johnpbloch	your mom's markup goes to college...	rg
+wordpress	irc	7/7/2012	tw2113	blah blah child theme ALL THE THEMES	blobaugh	tw2113: i childed your mom	rg
+wordpress	irc	7/24/2012	c3mdigital	which one of you guys broke pingdom?	tw2113	your mom	rg
+wordpress	irc	8/9/2012			LindsayMac	yen_: just don't use ANY words that a mom wouldn't want you saying in front of a 5 year old	ms
+wordpress	irc	8/18/2012	bytephilia	Ox1 IS ?? lol	bytephilia	Ox1 IS ?? lol	megan
+wordpress	irc	8/18/2012	bytephilia	Ox1 IS ?? lol	Ox1	bytephilia its your dad multiplied with your mom	megan
+wordpress	irc	8/18/2012	Ox1	and your mom is a 1	Ox1	which makes your mom something	megan
+wordpress	irc	11/16/2012	JFranks	Can you get a girl to go on a 2nd date?	ccm84	I'm not asking your mom on a second date. Tell her to stop calling and respect hte restraining order.	rg
+wordpress	irc	12/22/2012	JAZ	gbili can you tell me what code to add and where please.	gbili	JAZ i'm not your mom, have a look at what i told you. wp-content/themes/_s/functions.php	rg
+wordpress	irc	12/29/2012	jeff_sebring	all arch all the time	tw2113	jeff_sebring, reason my mom is more awesome than your mom #1531	rg
+wordpress	irc	12/29/2012	Hfuy	I've just been accused of being "some sort of hacker" for knowing how to specify colours as a hex triplet.	LindsayMac	by who? your mom?	rg
+wordpress	irc	12/29/2012	Hfuy	Yes. That's why I mentioned it.	LindsayMac	Hfuy: hence my question... if it was your mom that said that	ms
+wordpress	irc	12/29/2012	LindsayMac	Hfuy: hence my question... if it was your mom that said that	LindsayMac	unless your mom is some well known hacker, that is a funny joke..	ms
+wordpress	irc	1/5/2013	tw2113	onceler, while i check on something: http://michaelbox.net/2012/12/wordpress-action-and-filter-hooks-described-so-your-mom-can-understand/	pixolin	tw2113: you describe hooks to your mom? that sounds ... nerdish ;)	rg
+wordpress	irc	2/3/2013	pixolin	did I ever say I know php or what?	Zeeflo	your mom told me!	rg
+wordpress	irc	2/21/2013	pixolin	this doc-bot command is mainly thought to ask you to be more verbose than just telling "doenstwork".	pixolin	that's like teaching your mum how to use the internet, she calls and says she gets an error message, you ask where and she tells you "on the screen, dummy!"	rg
+wordpress	irc	4/15/2013	LindsayMac	trolling? I posted you an exact answer to your centering problem	tabeaux	LindsayMac: Good for you, I'll ask your mom to hang it on the fridge	rg
+wordpress	irc	9/2/2013	tw2113	too much regulation in making a porn site	laekrits	and what would you tell your mom?	rg
+wordpress	irc	10/10/2013	Clorith	you guys? Did you jsut call me low cost :o	PeterBooker	Your mum didn't complain about my cost!	rg
+wordpress	irc	10/18/2013	redner	anyone wanna help me code a custom full width section shortcode	tw2113	shortcodes insulted your mother, they called her fat	rg
+wordpress	irc	12/21/2013	SeksiCKret	what hookers and blow where?	nkuttler	SeksiCKret: at your mom's	rg
+wordpresss-ui	irc	9/18/2013	helen	wonderboymusic: i only do this because we're besties.	wonderboymusic	helen: I am besties with your mom	ms

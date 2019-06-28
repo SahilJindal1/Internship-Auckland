@@ -1,0 +1,459 @@
+# Author: Squire, M. & Gazda, R.
+# License: Open Database License 1.0
+# This data genderHicss2015.tsv is made available under the 
+# Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. 
+# Any rights in individual contents of the database are licensed under the 
+# Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/ 
+#
+# filename: genderHicss2015.tsv
+# explanation: 
+# This data set is part of a larger group of data sets
+# described in the paper below, and hosted on the FLOSSmole.org site. 
+#
+# fields:
+# group: this is the software project
+# medium: this is the type of communication artifact (irc or email)
+# date: 
+# user: first chatter
+# message: the line with the gender stereotype
+# user2: second chatter (if any)
+# message2: continued gender stereotype (if any)
+# coder: the person who coded these messages and followups
+#
+# Please cite the paper and FLOSSmole as follows:
+#
+# Citations:
+# Squire, M. & Gazda, R. (2015). FLOSS as a source for profanity 
+# and insults: Collecting the data. In Proceedings of 48th 
+# Hawai'i International Conference on System 
+# Sciences (HICSS-48). IEEE. Hawaii, USA. 5290-5298.
+#
+# Howison, J., Conklin, M., & Crowston, K. (2006). FLOSSmole: A 
+# collaborative repository for FLOSS research data and analyses. 
+# International Journal of Information Technology and Web 
+# Engineering, 1(3), 17–26.
+# 
+group	medium	Date	User	Message	User2	Message2	coder
+buddypress-dev	irc	9/16/2009	jjj	Using facebook as a real world example, it's the same as blocking an exgirlfriend from viewing your profile even though she is on your friends list.			ms
+buddypress-dev	irc	1/13/2010	BenFremer	Did apeatling get married or a girlfriend or something? I hardly see him in here lately. :p			ms
+buddypress-dev	irc	1/19/2010	apeatling_	my mom is not going to get +everyone !notification @bobsyouruncle			ms
+buddypress-dev	irc	1/19/2010	jjj	Mom, that means you're telling everyone that Bob is your uncle, and you want them to know so strongly, that you want the website to notify them directly of that fact!			ms
+buddypress-dev	irc	2/16/2010	andrea_r	also apeatling if it;s so easy your mom can install it, don;t let her talk to my mom. Sheesh. :D			ms
+buddypress-dev	irc	2/16/2010	jjj	But could your mom do it?			ms
+buddypress-dev	irc	2/16/2010	andrea_r	MY mom could do it.			ms
+buddypress-dev	irc	2/16/2010	apeatling	my mom should be able to do it			ms
+buddypress-dev	irc	2/16/2010	andrea_r	jjj: I can;t remember her oficial title, she gets mad when I call her a secretary. :D She works at a Youth Prison, of all thing..			ms
+buddypress-dev	irc	2/18/2010	andrea_r	I liked it a lot. Do a girly version Bowe. ;P			ms
+buddypress-dev	irc	2/18/2010	andrea_r	I am just a stay at home mom disguised as a WP pro			ms
+buddypress-dev	irc	2/25/2010	sha1sum	it's always money or girls hehehe			ms
+buddypress-dev	irc	2/25/2010	andrea_r	according to my son, girls take alot fo money too			ms
+buddypress-dev	irc	2/25/2010	MikePratt	and she'll bake you sumpn' too			ms
+buddypress-dev	irc	5/5/2010	MikePratt	it happened once on my dev site (which I keep faily open anyway) and i saw an easy pattern: she (always a chick) hit the 20 most recent usernames			ms
+buddypress-dev	irc	7/7/2010	jjj	Don't want some poor innocent mommy-blogger to install BP and have her head spin off because of all the stuff it did to her website.			ms
+buddypress-dev	irc	9/22/2010	techguy-bp	my policy of only following users with hot girls for their avatar is great			ms
+buddypress-dev	irc	9/22/2010	techguy-bp	next up is the Girls of BP Calendar			ms
+buddypress-dev	irc	10/6/2010	techguy-bp	jjj: I'd direct you to my follow list which I affectionately call the "Girls of BuddyPress" They'd be the best place to go for more hugs			ms
+buddypress-dev	irc	8/7/2013	Mercime	what does the lady karmatosed want?			ms
+buddypress-dev	irc	2/26/2014	boonebgorges	anyway, I think all of this can and probably should be done as a plugin, but I am always telling this to sooszkrista, and he really hates to hear it, so there's that :)	ubernaut	sooskarista is a woman	ms
+django	irc	12/19/2013	mauricioantunes	and girls :)			ms
+django	irc	11/22/2013	nbhosting	girl fight again?			ms
+django	irc	9/19/2013	tavistock	punish grandmas ery day			ms
+django	irc	9/2/2013	m0rpho	but thats so weird, a function that stopps without saying anything	mstrcnvs	or the angrygirlfriend bug, know that?	ms
+django	irc	6/13/2013	superdmp	My girlfriend said: you spend too much time in front of that computer.			ms
+django	irc	6/6/2013	xbbtx	man, teaching Django to my girlfriend isn't the easiest thing there is :P			ms
+django	irc	5/30/2013	schinckel	(and girls)			ms
+django	irc	5/30/2013	djangopy	sorry and girls ;)			ms
+django	irc	2/15/2013	karim	(and girls)			ms
+django	irc	1/23/2013	plabo	i do think that the django documentation needs a tutorial on how to act with your girlfriend when you are working. gosh.			ms
+django	irc	1/19/2013	mushroomed	jhgaylor: Would you believe me if I tell you that my girlfriend has a Django pink pony screensaver on her cellphone?			ms
+django	irc	1/19/2013	jhgaylor	mushroomed: girlfriend? what is this black magic you speak of.			ms
+django	irc	1/2/2013	kimmo	what's this a girl who knows vim?			ms
+django	irc	12/18/2012	uuipo	is it bad?	tompaw	that depends, u agirl or a dude?	ms
+django	irc	12/15/2012	funkybob	well, wasn't that fun, boys and girl? :)			ms
+django	irc	12/5/2012	mikewatt	hey guys. I'm having date trouble (no not with a girl)			ms
+django	irc	11/18/2012	holocaine	FunkyBob gives his files to the SS.	funkybob	ACTION thinkgs of all the hot Jewishgirls he's met...	ms
+django	irc	10/16/2012	lacrymology	fission6: it's three of us, a sysadmin, me, a programmer, and a girl who handles content			ms
+django	irc	10/9/2012	superdmp	kezabelle: if you bang anything hard enough, you'll get something out worth using	funkybob	I bet you say that to _all_ the girls :P	ms
+django	irc	10/6/2012	babysuperman	Personally, I think django is great for my preferences right now -- 5 years from now I might be using RoR. It's really all preference, PHP/ror/asp.net/django/flaskr... srsly, just gotta find the right girl			ms
+django	irc	10/3/2012	pratz	Drager: hey my girl friend solved the problem	pratz	Drager: that's cool ha, girls are going smart these days	ms
+django	irc	8/4/2012	quansai	Do girls like Django programmers?			ms
+django	irc	7/31/2012	fission6	you should be done with that by now	z_a_m	eh I'm distracted by girls	ms
+django	irc	7/12/2012	quansai	" Girls want guys who have computer hacking skills."			ms
+django	irc	7/5/2012	tezro	I don't thing girls in any support could fix that )			ms
+django	irc	5/29/2012	funkybob	[unless you're a brainless teenage girl, in which case you relate to sparkly vampires:P]			ms
+django	irc	5/26/2012	eusid	got ya. see the site is for my girlfriend though so it needs to be easy. have you tried using any of the RTE with the upload file feature?			ms
+django	irc	5/3/2012	zxq9	antihero: I'm almost positive that means there is something wacky about your dev environment. Something tiny, irritating, like that one detail you forgot about a ex girlfriend from 10 years ago that now drives your wife mad but you're oblivious to...	zxq9	antihero: You know, like most programming problems...	ms
+django	irc	4/26/2012	nanonyme	glosoli, maybe someone comes and steals the video material of your girlfriend. :o			ms
+django	irc	4/21/2012	viperfx	my mom will have no idea what a vps is			ms
+django	irc	4/10/2012	|richard|	who is a girls ?:D			ms
+django	irc	3/8/2012	eusid	fortunately with some of the later linux dists it is a reality for grandma and grandpa to use linux			ms
+django	irc	2/3/2012	funkybob	then I got a girlfriend :P			ms
+django	irc	10/9/2011	eusid	where the fuck do you find girls that know what linux is			ms
+django	irc	9/23/2011	furao	I know a team of developers (4 guys) where their boss received various email or phone call from their girlfriends who said thanks for recent changes at their job, since they moved from PHP to python/django their personal life is better and they are less stressed			ms
+openstack	irc	1/13/2011	fraggeln	stockpiling chocolate like a girl.. :D			ms
+openstack	irc	6/27/2011	MarkusWPHRorg	IT girl came to install Viseo			ms
+openstack	irc	8/23/2011	reidrac	s/smart guys/smart people/ (sorry girls)			ms
+openstack	irc	9/7/2011	reidrac	he's getting a 412 error code	duranihep	and I'm a girl, dah~~	ms
+openstack	irc	11/14/2011	vidd	all my sister ever does is ask beg me to disinfect her computers and bring over my punkin pie =]			ms
+openstack	irc	1/19/2012	sogi	hello guys	sogi	(and girls maybe :) )	ms
+openstack	irc	3/20/2012	dj_ryan	in a bit more of a meta note, why do when i look at the 'crowbar' project and read 'cd images' cry like a little girl?			ms
+openstack	irc	11/23/2013	kseifried	because you have to wear clothes and shave	kseifried	and wear makeup if you're a girl	ms
+openstack-dev	irc	4/17/2014	jaypipes	annegentle: there's girls in OpenStack? no way! :P			ms
+openstack-infra	irc	1/21/2014	anteaya	NobodyCam: guys in the gender inclusive sense, of course?	portante	funny, if NobodyCam said, "Great Job girls!", girls in the gender inclusive sense, of course, would it come across in the same way?	ms
+perl6	irc	5/11/2005	wolverian	(sorry, girlfriend took a bit of my attention :)			ms
+perl6	irc	7/18/2005	wolverian	autrijus, I'll look into it! my girlfriend is over for the first time in a few weeks, so I'm a bit low on time			ms
+perl6	irc	4/27/2009	sjn	moritz_: I'm sure your mom would be EXTATIC to use 5.10.0 :)			ms
+perl6	irc	8/28/2009	sjohnson	what I need is "Teach Your Girlfriend Perl"			ms
+perl6	irc	8/28/2009	sjohnson	be sure to order my previous bestselling volume: "Teach Your Girlfriend how to Setup a VCR"			ms
+perl6	irc	12/1/2010	jnthn	I bet it even has a girlfriend.			ms
+perl6	irc	9/24/2011	Woodi	teknology for grandmas often wins :)			ms
+ubuntu	irc	9/14/2004	Kamion	fabbione: as long as it doesn't mean me staying up all night and ignoring my girlfriend			ms
+ubuntu	irc	9/25/2004	pitti	lamont: actually I hoped to see some sexy girls before the release :-)			ms
+ubuntu	irc	9/29/2004	jdub	Kamion: you don't tend to read knitting group lists though, to be fair :)	Kamion	jdub: my girlfriend reads knitting group lists and still often switches to a console when using Unix systems, so there :)	ms
+ubuntu	irc	10/3/2004	pere	Pity though if there isnt a decent way to start it directly from the browser. Now I can't tell my girlfriend that in Linux she just can click on the movies she want to download (ehhh did I say movies?. I meant large iso files with linux distributions)			ms
+ubuntu	irc	10/4/2004	pitti	Tsjoklat: you was the guy with the 24 hour CD download?	Tsjoklat	girl	ms
+ubuntu	irc	10/7/2004	LinuxJones	jsut tell ur wife that microsoft has a new version out called Ubuntu :P			ms
+ubuntu	irc	10/10/2004	Anna	But I should shut up again, I tend to interrupt the flow with my babble.	Anna	Well, what can I say, I'm a GIRL	ms
+ubuntu	irc	10/10/2004		hazmat just came back from a conference (plone) 90/1 guy:girl ratio			ms
+ubuntu	irc	10/10/2004	ioslipstream	seeing as ubuntu seems to do everything but send the girls to your door... can we expect the Hoary release to fill that gap, or should I file a bug report?			ms
+ubuntu	irc	10/12/2004	dyn	as a long time linux user (debian, gentoo), i'm looking for a gf-compatible distribution which can be used offline with no net connection	dyn	as a long time linux user (debian, gentoo), i'm looking for a gf-compatible distribution which can be used offline with no net connection	ms
+ubuntu	irc	10/12/2004	crimsun	gf == "girlfriend"?	dyn	crimsun: girlfriend of cource :)	ms
+ubuntu	irc	10/12/2004	Sam0r	its a parody of geeks when a girl comes on a forum, and half of them say 'omg hi2u'			ms
+ubuntu	irc	10/12/2004	dickmorrell	if you're calling me a girl ??			ms
+ubuntu	irc	10/12/2004	dickmorrell	I think a few million Linux users might point out I'm hardly a girl more hairyassed codemonkey			ms
+ubuntu	irc	10/14/2004	spooky1	because my girl prefers winblows			ms
+ubuntu	irc	10/14/2004	tehmiller	that requires spending of funds	tehmiller	which will incur the bitching of the girlfriend	ms
+ubuntu	irc	10/15/2004	Titbread	|trey|: and what are you some 30 year old looser who's fucked about 2 girls in his entire life .. nice one :)			ms
+ubuntu	irc	10/15/2004	Titbread	AHAHAHAHA WHAT THE FUCK!!?? I'd screwed more girls then that when i was 14 fo fucks sake!!			ms
+ubuntu	irc	10/15/2004	|trey|	Titbread: I fail to see how the amount of girls you've been with is relivant to anything? just for the record, I am a 20 yo that has been with 38 girls and counting though... just to prove you wrong :/			ms
+ubuntu	irc	10/15/2004	Iorek	apt-get girlfriend			ms
+ubuntu	irc	10/15/2004	jde	Iorek, you for got to install girlfriend.			ms
+ubuntu	irc	10/15/2004	djuuss	Iorek tried to apt-get girlfriend			ms
+ubuntu	irc	10/15/2004	|trey|	djuuss: blah... upgrade to friend-with-benifits, all the features of girlfriend, without all the bloat :)			ms
+ubuntu	irc	10/15/2004	|trey|	djuuss: blah... upgrade to friend-with-benifits, all the features of girlfriend, without all the bloat :)	djuuss	|trey|: girlfriend without bloat? whats that? apt-get handjob?	ms
+ubuntu	irc	10/15/2004	djuuss	|trey|: girlfriend without bloat? whats that? apt-get handjob?	jde	You can just get a girl that way without having to commit.	ms
+ubuntu	irc	10/15/2004	jde	You can just get a girl that way without having to commit.	Iorek	cool, apt-get girlfriend crashed everything	ms
+ubuntu	irc	10/16/2004	ranman	Why were you not able to use it for more than a week? Married, and your wife yelled about you always on the computer?			ms
+ubuntu	irc	10/17/2004	ranman	tony first rule.. apt is your best friend.. It is is more faithful than your girlfriend..			ms
+ubuntu	irc	10/17/2004	ranman	tony first rule.. apt is your best friend.. It is is more faithful than your girlfriend..	tony	Good....cause I dont have a girlfriend...	ms
+ubuntu	irc	10/24/2004	cardador	a lot of people is against showing half naked people on the theme	cardador	eheh you have 2 girls and 1 man	ms
+ubuntu	irc	10/24/2004	hypatia	one of the fundamental problems in society today: which gender should be forced to keep their clothes on?			ms
+ubuntu	irc	10/24/2004	will	well, do a 'girls' pack option, with naked men, and a 'guys' pack with girls....SIMPLE			ms
+ubuntu	irc	10/24/2004	sepheebear	was that the only black girl available? she's not even that hot. sorry to make such a deal out of it but it was a rude awakening after i rebooted			ms
+ubuntu	irc	10/25/2004	ob	there's like.. a hug orgy with a black dude, a white chick, and a black chick.	ob	god that white girl is hot	ms
+ubuntu	irc	10/25/2004	crimsun	i think it's a nice splash	AndyFitz	theantix: my girlfriend uses the computer quite often and we've resolved to the fact that having it at the top freaks her out.	ms
+ubuntu	irc	10/25/2004	joolz	... the new artwork, is it here to stay?	Randomize	Only the guy. They're getting rid of the girls.	ms
+ubuntu	irc	10/27/2004	sepheebear	speak for yourself, the guy in the picture looks pretty darn happy to me	|trey|	I would be too... 2 nekkid girls :/	ms
+ubuntu	irc	10/27/2004	djempak	lol, what's wrong with half naked people? ;)			ms
+ubuntu	irc	10/27/2004	toyowheelin	and the problem is its not approprate for a production enviroment	Espectro	the one showing 1 guy and 2 girls or something?	ms
+ubuntu	irc	10/27/2004	zenwhen	Espectro, do you know what racy means?	Espectro	hot blonde babe, black girl for the "brothars" and vin diesel kind of guy	ms
+ubuntu	irc	10/28/2004	BeanDip	WTF is up with that queer-ass theme this month?			ms
+ubuntu	irc	10/28/2004	sg	it's a cool theme	bestadvocate	well the girls are hot	ms
+ubuntu	irc	10/29/2004	opi^work	gonzokiwi: I see you're using same laptop as my girlfriend is			ms
+ubuntu	irc	10/31/2004	SuitsixX	yeah new school mac users tend to be teen girls and thier rich mommies and daddies			ms
+ubuntu	irc	10/31/2004	xskoulax	mmmm teen girls			ms
+ubuntu	irc	10/31/2004	MrMario64	shame about losing the blonde girl on my ubuntu desktop			ms
+ubuntu	irc	11/3/2004	philipp1	what do you all use for P2P ?	philipp1	what do you all use for P2P ?	ms
+ubuntu	irc	11/3/2004	Gmail	or a girl	philipp1	a girl is a p2p app :-) ?	ms
+ubuntu	irc	11/7/2004	kensai	I wish my girl friend changes to Linux			ms
+ubuntu	irc	11/7/2004	cef_work	thoreauputic: I used to run a BBS.. and we had this one girl who called (yes, a girl, calling a BBS, back in '92 at the time) who was so dumb she chatted to the AI Chat program for almost an hour before she realised it was a bot.			ms
+ubuntu	irc	11/10/2004	socomm	kapputu_: if you have a cute sister/girlfriend lets us know ;)			ms
+ubuntu	irc	11/10/2004	ogra	stvn: try getting your mom installing packages with dselect *g*			ms
+ubuntu	irc	11/11/2004	kapputu	I don't want to buy a card for him	kapputu	it's not even for a girl :-P	ms
+ubuntu	irc	11/11/2004	kapputu	you convinced your wife to get linux ?			ms
+ubuntu	irc	11/13/2004	epod	now, if ndiswrapper works, I'm going to be as giddy as a schoolgirl			ms
+ubuntu	irc	11/13/2004	|trey|	Ruffian|JANE|, dude, just remove that line... and don't paste so much in here!	|trey|	uhh, s/dude/girl/ I think?	ms
+ubuntu	irc	11/14/2004	zu22	check out the pic on the ubuntu site: http://www.ubuntulinux.org/login.jpeg there is some dude with no shirt on and some blond chick the camera is looking down her shirt at her big boobies	zu22	maybe if we use ubuntu we can all get hot girlfriend like her? hehe	ms
+ubuntu	irc	11/14/2004	zu22	maybe if we use ubuntu we can all get hot girlfriend like her? hehe	zu22	chibifs: "damn if i install Ubuntu, that girl is MINE! " haha	ms
+ubuntu	irc	11/14/2004	Tsjoklat	change your nick, you'll get banned	Tsjoklat	admit you are a girl, you'll get banned	ms
+ubuntu	irc	11/14/2004	Tsjoklat	admit you are a girl, you'll get banned	Pizbit	Tsjoklat: You're a girl?:)	ms
+ubuntu	irc	11/14/2004	Tsjoklat	lol you rather me be a bloke Pizbit?	dredg	oh, and sorry, there is this law about girls using computers. especially linux. you should be adoring puppies or something...	ms
+ubuntu	irc	11/14/2004	linux_mafia	or girls as the case may be			ms
+ubuntu	irc	11/17/2004	desp	I'm falling in love with Ubuntu	desp	that chocolate girl on the desktop is helping, too	ms
+ubuntu	irc	11/17/2004	kensai	RuffianSoldier: I have more probs with Windows than with my ex-girlfriend ;)			ms
+ubuntu	irc	11/19/2004	Pustulo	mmmm nipples			ms
+ubuntu	irc	11/19/2004	Ruffian|JANE|	that black dudes a playa	Tsjoklat	I think it is a girl though	ms
+ubuntu	irc	11/19/2004	pao	merlin0, :-)	merlin0	i love that brown girl!!	ms
+ubuntu	irc	11/19/2004	merlin0	i love that brown girl!!	pao	merlin0, I'm waiting also for the white girl... :-)	ms
+ubuntu	irc	11/20/2004	hacked`	guys	gen	girls	ms
+ubuntu	irc	11/20/2004	LifesizeKenDoll	yea, he's a major lame-o	LifesizeKenDoll	the only other way to get him out is to have a girl over	ms
+ubuntu	irc	11/20/2004		hypa7ia laughs at herself	LifesizeKenDoll	ah, it's a _girl_	ms
+ubuntu	irc	11/20/2004	LifesizeKenDoll	hypa7ia, what made you abandon your roots of shopping and join the dark side?			ms
+ubuntu	irc	11/20/2004	hypa7ia	LifesizeKenDoll: my roots of shopping? :-p	LifesizeKenDoll	hypa7ia, girls like to shop - don't worry, I like to shop too	ms
+ubuntu	irc	11/20/2004	Chibi	So, do we get a picture of the cute blonde girl next month? :P			ms
+ubuntu	irc	11/20/2004	Chibi	One with the guy, blonde girl, and black girl, and one of the black girl. :/			ms
+ubuntu	irc	11/24/2004	Adrenal	sorrry if i didn't thank u guys before	Tsjoklat	guys/girls/sheep	ms
+ubuntu	irc	11/26/2004	StarScream	will_, hmm any suggestions, i dont mind using the shell but my girlfriend doesn't like doing console stuff atm			ms
+ubuntu	irc	11/26/2004	xukun	n8 guys	xukun	and girls!	ms
+ubuntu	irc	11/27/2004	ComCtrl6	you know, one thing i absolutly love about Ubuntu is that i was able to get the i8k (dell fan utility thingy) to work. that is all it takes for me to convert.	TonyW	dont any of you have girlfriends or anything?	ms
+ubuntu	irc	11/27/2004	cenerentola	you can give user-support to 10 person... at the same time... its like me, sexually speaking.. with girls: we're special...;)			ms
+ubuntu	irc	11/28/2004	socomm	Yo, any girls here!			ms
+ubuntu	irc	12/4/2004	Tsjoklat	mojo my dear.. I am female, woman, girl... remember?	zenwhen	Girls smell nice. o;	ms
+ubuntu	irc	12/6/2004	stvn	ogra: that I know, but it's for the computer i'm installing now and give to my sister next week ;)	rapha	stvn: I'm using bootsplash for my girlfriends computer, too, and she's never complained about "the cute penguin".	ms
+ubuntu	irc	12/8/2004	Tsjoklat	part of the staff... LOL	zenwhen	Tsjoklat, thats why you're my #1 #ubuntu girl. (it helps that you are the only one)	ms
+ubuntu	irc	12/10/2004	Myke	what a waste of apache resources	Myke	so many man hours to produce apache... as you used to let a girl speak even more...	ms
+ubuntu	irc	12/10/2004	GoneBoB	people > money	|trey|	Tsjoklat: lost a few girls due to not having enough money right now :/	ms
+ubuntu	irc	12/10/2004	|trey|	Tsjoklat: lost a few girls due to not having enough money right now :/	Matt|	man those type of girls really suck	ms
+ubuntu	irc	12/10/2004	Matt|	man those type of girls really suck	socomm	|trey|: the operative word being `girls'.	ms
+ubuntu	irc	12/10/2004	Tsjoklat	|trey| you should be.. I am not your average one	|trey|	Tsjoklat: all girls say that :(	ms
+ubuntu	irc	12/10/2004	tvon|x31	Whats that saying? "Where men are men, boys are men and 16 year old girls are FBI agents"?			ms
+ubuntu	irc	12/11/2004	king_arthur	palle: you must create a mount poin and mount like I do with my girlfriend :-)			ms
+ubuntu	irc	12/11/2004	king_arthur	palle: create a directory if you want in / for instance /girlfriend			ms
+ubuntu	irc	12/11/2004	palle	and mount /girlfriend with /dev/hda3 ?			ms
+ubuntu	irc	12/11/2004	king_arthur	palle: you Mount /dev/hda3 into /girlfriend... did you get the idea?	king_arthur	palle: I told you: whatever you like.... /girlfirend /pippo /arthur whatever	ms
+ubuntu	irc	12/11/2004	_|Imanewbie|_	I got a friend, he is jewish, uses glasses, has an ugly girl friend and likes XP he is d00med			ms
+ubuntu	irc	12/12/2004	rory__	i doubt any of my teachers from school have a clue abt linux	Bugalugs	ah ok no women (or girls for that matter) came into my class	ms
+ubuntu	irc	12/13/2004	Rene_S	I like it, makes it easier to figure out, my wife installed it yesterday and she cant even figure out how to install Office on windows			ms
+ubuntu	irc	12/13/2004	Rene_S	My wife cant work the installer for debian or ubuntu, she doesnt understand what anything means hehe, no pictures			ms
+ubuntu	irc	12/14/2004	Nexinarus	hey where is a JPG of that girl on the cd cover, i want it,	Nexinarus	i want the full pic of that cleavage girl on the ubuntu cd cover. its such a funny pic :p	ms
+ubuntu	irc	12/14/2004	heilin	excuse me.. can you tell me how many girls are in this channel?			ms
+ubuntu	irc	12/14/2004	heilin	excuse me.. can you tell me how many girls are in this channel?	heilin	siretart: how many girls are there?	ms
+ubuntu	irc	12/14/2004	siretart	heilin: dont care..	heilin	siretart: why? :( I am a girl..	ms
+ubuntu	irc	12/15/2004	JDahl	how much soldering are guys doing?	Tsjoklat	JDahl I am a girl and I solder	ms
+ubuntu	irc	12/15/2004	Tsjoklat	JDahl I like to solder when it is friday night and I got no date (that means every friday night)	GotD0t	or i guess oh girl is the right word Tsjoklat	ms
+ubuntu	irc	12/15/2004	GotD0t	or i guess oh girl is the right word Tsjoklat	Tsjoklat	<--- doesn't do 'girlie' hobbies	ms
+ubuntu	irc	12/18/2004	TongMaster	but as I've already off-loaded the last one, it's a bit hard to do when you're single. I suppose I could celebrate eahc time I meet someone interesting and manage not to get sucked into a relationship.	ctd	No, Tongmaster brings all the girls to the yard..	ms
+ubuntu	irc	12/19/2004	Rene_S	Dont make me get your Moms down here			ms
+ubuntu	irc	12/20/2004	Tsjoklat	Q-collective I am a girl.. I can demand whatever I want			ms
+ubuntu	irc	12/20/2004	Tsjoklat	|QuaD night even though I am not a guy	|QuaD-	Tsjoklat: there is always like 1 girl in the linux chats that bite me in the a$$	ms
+ubuntu	irc	12/20/2004		rory__ thinks ubuntu cds will make good xmas presents...		rory__ can imagine the excited looks on his girlfriends face already....	ms
+ubuntu	irc	12/22/2004		warty is now known as warty_girl	wood1	Hmm, good to see a warty_girl in a Ubuntu chat forum	ms
+ubuntu	irc	12/22/2004	Simira	Tsjoklat: are you at the conference?	Tsjoklat	Simira no I am not, but a few people I know were there and they mentioned that you are a girl too	ms
+ubuntu	irc	12/22/2004		siimo wonders if warty_girl will change her name to hoary_girl when its out lol that sounds rude			ms
+ubuntu	irc	12/23/2004	gangalino	AFX: racism doesn't depend on color, you got some real white looking Black people also that are still victimized by racism	AFX	did you hear about the white guy that beat the other white guy because he once dated a black girl?	ms
+ubuntu	irc	12/24/2004	amathis	Girls don't seem to like it when you ask them if you can suck their blood as a sign of affection.			ms
+ubuntu	irc	12/26/2004	|QuaD-	Tsjoklat: i decided to idle in this debian woman chat that whoever was talking about... it is the funniest thing	|QuaD-	well, in most normal channels, you talk about the topic, like here it is ubuntu, or whatever, so i assume that there it is... well debian... however they are having the same type of girltalk my female friends tend to have	ms
+ubuntu	irc	12/26/2004	|QuaD-	Tsjoklat: it kind of reminds me of a woman's rights organization... though they forgot what they are fighting for			ms
+ubuntu	irc	12/26/2004	Tsjoklat	|QuaD well it seems that linux for/with women is still far gone... too bad, was hoping that something would happen at last... guess I am stuck with you guys			ms
+ubuntu	irc	12/26/2004	Tsjoklat	|QuaD that's beyond the point... I think if women in linux ever want to be taken serious they should have a more seriouse approach to matters then talking about menstrual pads	BAOBAB	|QuaD yes. My question: Is there life on mars and girls?	ms
+ubuntu	irc	12/26/2004	BAOBAB	beezly: how you know about Taiwan?	BAOBAB	beezly: lets go to Taiwan for pretty girls :)	ms
+ubuntu	irc	12/26/2004	BAOBAB	cef: ok. Ubuntu is the best. Ubuntu is my religion. Ubuntu is my wife			ms
+ubuntu	irc	12/27/2004	gpled	Tsjoklat: farruinn: thanks, you guys got my install going!	Tsjoklat	gpled it's girl but your welcome anyways	ms
+ubuntu	irc	12/28/2004	cottonginntonix	im a "girl" when it comes to linux and i usually have people do stuff for me beut im tryint o learn my self and im having a hard time configuring this java for my browser....			ms
+ubuntu	irc	12/29/2004	anir	hey guys	sladen	and girls	ms
+ubuntu	irc	12/29/2004	sladen	and girls	anir	no girls here i guess	ms
+ubuntu	irc	12/29/2004	anir	no girls here i guess	socomm	Girls? Hahaha.	ms
+ubuntu	irc	12/31/2004	scoon	thenuke, god bless booze, without it, there would be no hot girls.			ms
+ubuntu	irc	1/3/2005	pepsi	warty, whorey, grumpy girlfriends			ms
+ubuntu	irc	1/3/2005	_dud_	prolly not many 12 year old girls running ubuntu though ;)			ms
+ubuntu	irc	1/3/2005	Pozac	pw, apt-get install ubuntu-calendar	ogra	Pozac: come on, leave something for the girls around	ms
+ubuntu	irc	1/3/2005	ogra	Pozac: come on, leave something for the girls around	Pozac	ogra, there are girls around?	ms
+ubuntu	irc	1/3/2005	Crane	interested in the calender but don't need to explain naked lady to children	_dud_	as this pc belongs to a 12yo girl >_<	ms
+ubuntu	irc	1/3/2005	ogra	suzan: would you mind to rewrite your photoshop guide in english ? i pointed someone there yesterday and he loved it, but had probs to understand the babelfish translation :)	_dud_	ogra, stop scaring the girls away heh	ms
+ubuntu	irc	1/4/2005	Madd_Marshall	well i dont think i want a girl who is impressed by my conversion skills....			ms
+ubuntu	irc	1/4/2005	Madd_Marshall	well i dont think i want a girl who is impressed by my conversion skills....	Madd_Marshall	unless she is a hot blonde with glasses and a schoolgirl outfit	ms
+ubuntu	irc	1/4/2005	|QuaD-	Kamion: who is the girl in the ubuntu-calendar wallpaper?			ms
+ubuntu	irc	1/5/2005		Setite wonders why Pozac feels inclined to state the obvious	Pozac	And your nick is a girls nick.	ms
+ubuntu	irc	1/5/2005	Pozac	And your nick is a girls nick.	Setite	its the name of a type of vampire... how is it a girls nick	ms
+ubuntu	irc	1/5/2005	Setite	its the name of a type of vampire... how is it a girls nick	kebac	it just sounds girlish	ms
+ubuntu	irc	1/5/2005	zenwhen	I'll go without hand holding while editing config files thanks.	thoreauputic	zenwhen: Ubuntu is not for hardcore Linux people - I spent hours helping a girl who just liked it and wanted to learn	ms
+ubuntu	irc	1/6/2005	DeepSpaceAnt	I can't fake it, just break it, and when I take it See I specialize in making all the girls get naked			ms
+ubuntu	irc	1/8/2005	GentleHatemonger	Illinois Math and Science Academy	GentleHatemonger	blah, the girls aren't that attractive	ms
+ubuntu	irc	1/8/2005	Scorp	wouldn't it be cool to live with a girl? (now I know I say this in a Linux chatroom but...)			ms
+ubuntu	irc	1/8/2005	WeedVender	no but I don't see any reason why to get a girl now... too much work			ms
+ubuntu	irc	1/8/2005	WeedVender	no but I don't see any reason why to get a girl now... too much work	WeedVender	plus... nothing wastes more $$$ than a girl.	ms
+ubuntu	irc	1/8/2005	WeedVender	plus... nothing wastes more $$$ than a girl.	GentleHatemonger	WeedVender: I haven't spent a dime on my girlfriend	ms
+ubuntu	irc	1/9/2005	GoneBoB	daniels: haha! make sure you grab the dildo from the police station	GoneBoB	and give it to your girlfriend	ms
+ubuntu	irc	1/10/2005	dr_willis	I need a program taht the wife can handle :p hee hee			ms
+ubuntu	irc	1/10/2005	davyd	I run linux on my wife, since then she's been more secure and easy to update. However she's hard to use, and there is no support for her accessories			ms
+ubuntu	irc	1/11/2005	Pozac	anir, Denmark	anir	i like the beautiful girls of denmark ...lol Pozac	ms
+ubuntu	irc	1/11/2005	setite	nah it wasnt rich at all	setite	at least i could have flirted with some virginal rich girl	ms
+ubuntu	irc	1/12/2005	odo	new year. yes. happy. no.	HcE	little money, insecurity and no girl/boy?	ms
+ubuntu	irc	1/15/2005	dataw0lf	fuck a milf and their stretch marks.	dataw0lf	18-19 year old college girls, that's where it's at.	ms
+ubuntu	irc	1/15/2005	dataw0lf	You heard me you old bastard.	neuro_	i could of course be a 13-year old girl, and you'd be none the wiser	ms
+ubuntu	irc	1/15/2005	neuro_	i could of course be a 13-year old girl, and you'd be none the wiser	dataw0lf	I can smell 13 year old girls from a mile away.	ms
+ubuntu	irc	1/15/2005	exlt	TUXIE: for what it is worth, I have been using linux for about 9 years, I am a systems engineer for a co. with 10,000+ servers, have tried most distros, and like the simplicity of install, and the fact that my non-techie wife likes it :)			ms
+ubuntu	irc	1/17/2005	bluefoxicy	LucidVisions: but does it do what I described? :)	bluefoxicy	will it wash your dog, do the dishes, and impregnate your girlfriend?	ms
+ubuntu	irc	1/24/2005	dud	heh, /. is so cool	dud	if i had to choose between /, and my girlfriend it have some serious trouble heh	ms
+ubuntu	irc	1/26/2005	aurora	i have warts on my penis	Sharcho	I always thought aurora only a name for girls	ms
+ubuntu	irc	1/27/2005	aethera	trying to teach my gf how to use linux	TTilus	(grandfather or girlfriend... what's the difference...)	ms
+ubuntu	irc	1/29/2005	Kyuuketsuki	hurray for blacks who listen to howard!			ms
+ubuntu	irc	1/29/2005	martok	Waaaah, your implants popped, waaaah!			ms
+ubuntu	irc	1/29/2005	larsrohdin	Tsjoklat, no, not in here... you guysa are nice;)	Tsjoklat	larrsrohdin and girls	ms
+ubuntu	irc	2/1/2005	ThePoet	hi guys	ThePoet	and Girls	ms
+ubuntu	irc	2/3/2005	Hitchhiker90	can I apt-get remove my girlfriend?			ms
+ubuntu	irc	2/3/2005	nevyn	Tuxicity: or like most computer geeks tux doesn't have a girlfriend.			ms
+ubuntu	irc	2/3/2005	nevyn	Tuxicity: or like most computer geeks tux doesn't have a girlfriend.	Sensebend	Tux has a girlfriend?	ms
+ubuntu	irc	2/8/2005	tritium	I owe my wife some time tonight. I'll see you guys tomorrow.			ms
+ubuntu	irc	2/8/2005	bitfoo	this is the hottest girl ever :|	bitfoo	just some girl :oD	ms
+ubuntu	irc	2/9/2005	stef_65	I know that mysekf, but my girlfriend needs a GUI for that..			ms
+ubuntu	irc	2/14/2005	ron_	do any women use linux?			ms
+ubuntu	irc	2/14/2005	Danko123456	:) you have a girls group in your gAIM?			ms
+ubuntu	irc	2/14/2005	Danko123456	:) you have a girls group in your gAIM?	Cindux	the girls group	ms
+ubuntu	irc	2/14/2005	Cindux	the girls group	Danko123456	There is a girls group in your gaim...	ms
+ubuntu	irc	2/14/2005	Danko123456	a separate group for girls..enough abouit that.			ms
+ubuntu	irc	2/14/2005	Danko123456	a separate group for girls..enough abouit that.	dud	what is this "girl" thing you are talking about...?	ms
+ubuntu	irc	2/14/2005	dud	what is this "girl" thing you are talking about...?	Cindux	dud: it's just a screenshot of GAIM on my website with a "girls group"	ms
+ubuntu	irc	2/14/2005	Cindux	dud: it's just a screenshot of GAIM on my website with a "girls group"	dud	i saw that, but i was thinking generally this "girl" thing	ms
+ubuntu	irc	2/17/2005	Orcrist	chillywilly... my girlfriend doesn't mind naked women on my pc as long as I put a doily over it before they sit down	DesiGuy	girlfriend's do nothing but hold u down	ms
+ubuntu	irc	2/17/2005	pestil	syn-ack, "blow" a "load"?? I hadn't heard that phrase in ages. Ahhh I hope you're a girl or something, I can't get this images off my mind			ms
+ubuntu	irc	2/21/2005	ewhitten_	jnk: lvl 19, almost 20. but I also have a girlfriend. ;)			ms
+ubuntu	irc	2/22/2005	Schaap	hush lil piggy	liam	leave danila alone if she is a girl	ms
+ubuntu	irc	2/22/2005	liam	or is that just a nickname*hopes for chick*	liam	ok this is getting pretty gay	ms
+ubuntu	irc	2/22/2005	liam	btw danila are u a girl?	liam	danila are you a girl?	ms
+ubuntu	irc	2/23/2005	bubba	porn man porn gotta have porn	bubba	yes my girlfriends last name is .jpg	ms
+ubuntu	irc	2/23/2005	bubba	i either get a guy moaning or a girl	bubba	soi choose the girl :)	ms
+ubuntu	irc	3/1/2005	Nermal	hmm... why are PHP5 packages listed in apt with a "v" if you can't actually install them	Nermal	that's like putting a naked fit girl in a perspex box	ms
+ubuntu	irc	3/1/2005	kreiger	check THIS little thing out.	Nermal	kreiger, I bet you say that to all the girls	ms
+ubuntu	irc	3/1/2005	dr_willis	its seeming to not find the module.. Grr.. wife keeps pestering me when i am in the middle of somthing.. :P will try again. thanks for the help			ms
+ubuntu	irc	3/2/2005	Atrophy	LOL soon as I get this working it's going to my girlfriend's house cause she's the only person I know that has analog cable LOL			ms
+ubuntu	irc	3/2/2005	pepsi	warty, hoary, and grumpy.. just like your girlfriend :)			ms
+ubuntu	irc	3/3/2005	membreya	my girlfriend gets brazilian waxed ruina, does that count?			ms
+ubuntu	irc	3/4/2005	membreya	Nermal: it's hard enough to get my girlfriend to click something let alone learn something new			ms
+ubuntu	irc	3/6/2005	regeya	see, my wife is one of these people who refuses to ever learn to deal with any sort of fancy computing device			ms
+ubuntu	irc	3/9/2005	linux_galor1	AcidWolf: kidding my wife can get evolution working and she's a moron			ms
+ubuntu	irc	3/12/2005	geppy	klaxian: Then again, I wouldn't go giving it to your mom. =P			ms
+ubuntu	irc	3/18/2005	Mom	If you had to tell your mom what to do with the Ubuntu DL, what would you tell here?			ms
+ubuntu	irc	3/18/2005	GarySaved	That is mostly what my wife uses the computer for, printing graphics from the net.			ms
+ubuntu	irc	3/26/2005	quarupt	lol, zubunt you know the story with the office assistant? its only there cause his girlfriend/wife wants it			ms
+ubuntu	irc	3/27/2005	joeblow1234	I'm running CentOS right now because I want something that I can throw on my computer that isn't Windows that doesn't always change (my girlfriend doesn't like change)			ms
+ubuntu	irc	3/29/2005	[Rain]	ssam, I think the fact that you have a girlfriend is more impressive			ms
+ubuntu	irc	3/30/2005	LBM	Dillweed: haha, hand your mom a copy of linspire and ubuntu and make her install			ms
+ubuntu	irc	4/3/2005	atomsk	wm_eddie: let me put it this way...would you allow everyone (even your mom) to see the source code for a commercial e-mail program you wrote in Python?			ms
+ubuntu	irc	4/4/2005	ian	would you guys sit your mom down in front of synaptic?			ms
+ubuntu	irc	4/5/2005	romulo	njs12345, thanks, my girlfriend just say she cant "ask" things here			ms
+ubuntu	irc	4/6/2005	MarsDude	Well, I think I'm going to recommend (K)ubuntu to my wife... She's now running gentoo, but that might just be a bit to much for a non-geek ;-)			ms
+ubuntu	irc	4/8/2005	eyequeue	OrionUser: i've installed it for a great grandmother			ms
+ubuntu	irc	4/20/2005	jldugger	metalkaos, your mom can partition a harddrive correctly?			ms
+ubuntu	irc	4/20/2005	bogus	your mom is a programmer? :o			ms
+ubuntu	irc	4/21/2005	XTC	Ubuntu is totally a distro for your mom			ms
+ubuntu	irc	4/23/2005	alterim	i installed ubuntu and messed about with it for a couple of weeks in which time had several rows with my girlfriend about neglecting her			ms
+ubuntu	irc	4/24/2005	jeramy_	Anyway, I'm off to bed. My wife will probably complain as it is. :)			ms
+ubuntu	irc	4/24/2005	adoymn	i told my wife i was going to bed hours ago			ms
+ubuntu	irc	4/26/2005	dazed	smallfoot-: your mom can understand linux enough to find ur *porn*			ms
+ubuntu	irc	4/26/2005	dcraven	I gotta split guys.. My wife is yelling at me.			ms
+ubuntu	irc	5/4/2005	torpid	this is why geeks like you guys aren't well liked in the real world. you spend all of your time on irc. you don't have girlfriends, or if you do, they are fat with pimples and glasses.			ms
+ubuntu	irc	5/5/2005	dcraven	wife wants attention... biab			ms
+ubuntu	irc	5/8/2005	Ironfrost	I shifted to Linux, and my girlfriend is trying to get me to convert back	synd	time for a new girlfriend	ms
+ubuntu	irc	5/9/2005	jacobsdad18	rats. the wife is calling. I'd better scoot. I;ll try again tomorrow.			ms
+ubuntu	irc	5/11/2005	XTCboarder	yo could sell both computers.. get an old dell for ur mom and buy yourself a gigabox			ms
+ubuntu	irc	5/16/2005	jamesio	sorry I ran off ... wife made me take out the garbage			ms
+ubuntu	irc	5/19/2005	dabaSlon	that will give you everything you need, you just had an approach, and I told you that you should view it differently..from a command line perspective...sicne your mom wont be doing gtparted anyhow....			ms
+ubuntu	irc	5/19/2005	IcemanV9	mdJake: finally found something that ACTUALLY work "out of the box" so my wife can use it just like xp			ms
+ubuntu	irc	5/22/2005	IIIEars	my wife would kill me. - i'd buy her earplugs to cover the sound of all thse wirring fans.			ms
+ubuntu	irc	5/22/2005	knapjack	Well, the wife is awake. I think it's shower, breakfast, etc. Catch you guys later.			ms
+ubuntu	irc	5/29/2005	Hackmo	I'll send someone naked pictures of my girlfriend if they can please help me with my webcam problem			ms
+ubuntu	irc	6/4/2005	podge	burgundavia : Did you read the articles about Tridge using his wife as the Samba 4.0 tester? :)			ms
+ubuntu	irc	6/29/2005	sly	how about for pure easyness of my girlfriend running it ............... just cos most of us can use text editors , not every one can			ms
+ubuntu	irc	7/17/2005	alpha	Razor-X: indeed but try explaining to your mom divx vs xvid ect..			ms
+ubuntu	irc	7/18/2005	tanki	afterall, does your mom know how to re-build her automobile's engine?			ms
+ubuntu	irc	7/21/2005	aarcane	time to go put this webcam aside, my girlfriend is getting jealous that the lappy is in my lap more than she is			ms
+ubuntu	irc	7/22/2005	chaps0063	Madpilot: no clue...it must be ashame, my girlfriend is still on AOL...			ms
+ubuntu	irc	8/8/2005	Razor-X	balistic2: your mom? wow, she's more knowledgeable than mine ;)			ms
+ubuntu	irc	8/27/2005	smudo	robotgeek: Then the login window won't work. My girlfriend has to use this machine. She'll never figure this out. =-)			ms
+ubuntu	irc	9/2/2005	drewfus	a girlfriend that knows more about linux than a guy? awesome			ms
+ubuntu	irc	9/2/2005	selinium	brenner: I used to play it when it first came out... think i lost a girlfriend over it lol			ms
+ubuntu	irc	9/7/2005	chumphries	my girlfriend may use linux now :)			ms
+ubuntu	irc	9/15/2005	sly	cheers, Seveas ................. will take another look, been kiling me for the past 2 hours since i woke up at 7, trying to get the girlfriend connected is a pain in the ass, why cant she just sit n watch tv :)			ms
+ubuntu	irc	10/5/2005	Phily	my girlfriend uses RSS feed on her cough "window machine"			ms
+ubuntu	irc	11/6/2005	mindwarp	Lord_Maynoth - may already be, my girlfriend uses it and she is by no means smart			ms
+ubuntu	irc	11/18/2005	gnomefreak	my g/f is scared of linux so i found it for winblows			ms
+ubuntu	irc	11/27/2005	JayLv99	hybrid - get a new girlfriend who doesn't care about java			ms
+ubuntu	irc	12/2/2005	topyli	mandrakeghost: well, after a steamy porn surf session, clear cache and history and you should be pretty safe from your mom :)			ms
+ubuntu	irc	12/11/2005		Broam names all his computers. He has a girlfriend. One of his computers has the same name, so Broam renamed the girlfriend.			ms
+ubuntu	irc	12/27/2005	burning_bronx	sudo apt-get install girlfriend			ms
+ubuntu	irc	12/27/2005	burning_bronx	sudo mount /dev/girlfriend /mnt/bed			ms
+ubuntu	irc	12/27/2005	HymnToLife	/dev/girlfriend already mounted :p			ms
+ubuntu	irc	12/27/2005	Pupeno	worst thing: sudo mount /dev/girlfriend /mnt/bed.... IO error!			ms
+ubuntu	irc	12/27/2005	burning_bronx	yes but if the girlfriend device is virgin type then you may get kernel panic			ms
+ubuntu	irc	2/18/2006	trappist	earthen: I was suggesting that you man up - that if my girlfriend can figure it out, you can too.			ms
+ubuntu	irc	3/5/2006	Rob_Dude	My Girlfriend uses Linux....	Rob_Dude	Oh wait, I don't have a girlfriend.	ms
+ubuntu	irc	3/12/2006	trae	Amaranth, Your mom I bet can't shred on a snowboard and compile a kernel.			ms
+ubuntu	irc	3/15/2006	milamber	@brenner main reason that i choose for ubuntu now is that my girlfriend had a hard time with debian, and sinse there is no windows in the house anymore, id need an easy to use easy to update linux dis, .. the update of ubuntu is great so far :D			ms
+ubuntu	irc	3/15/2006	milamber	@sixtymhz 've don that also for a while, buth my girlfriend didnt like lynx as a brwoser :d			ms
+ubuntu	irc	6/17/2006	gavagai	we aren't your mommy, you don't whine when you want something			ms
+ubuntu	irc	7/27/2006	whozatmac	david_ does your mom run windows or linux?			ms
+ubuntu	irc	7/27/2006	dingus9	c|int: um your mom needs windows :) lol			ms
+ubuntu	irc	10/21/2006	strabes	bhspitlappy: you said you have ur mom using ubuntu			ms
+ubuntu	irc	4/10/2007	sayers	Does anyone have a document on how to recommend your mom into using Ubuntu ?			ms
+ubuntu	irc	7/24/2007	dyrne	quaal2: apt-get is like a hot supermodel that can't cook. aptitude is like living with your mom... you choose ;p			ms
+ubuntu	irc	1/18/2008	h1st0	ZionPsyfer: bazhang erawfish does your mom know how to crack wep? Nuff said.			ms
+ubuntu	irc	3/6/2008	SilentDis	nickrud: right, but would you trust your mom to actually be patient enough as the download happens? mine burns water in saucepans, and yells at the microwave to hurry up!			ms
+ubuntu	irc	7/14/2008	kyncani	maco: so, you were using windows and did not know what a bios is. Now that you're using linux, you do know. Yeah, I'm sure your mom would have loved to know what a bios is ;)			ms
+ubuntu	irc	11/12/2008	badstue	i really need an easy backup solution.. i just need to make a complete system image of ubuntu.. burn it out on a cd... make it bootable and easy to restore... can that be done with such simplicity that our moms could do it ?			ms
+ubuntu	irc	5/13/2009	aixenv	hah u tried to convert your mom to linux, that's classic			ms
+ubuntu	irc	6/24/2009	mobi-sheep	Opera is the equivalent of your mom. It'll do everything for you whenever you want it or not. Firefox is the equivalent of your dad. It will do what you ask it to do... when you want it.			ms
+ubuntu	irc	9/27/2009	onaogh	can your mom use an FTP client ?			ms
+ubuntu	irc	4/13/2010	Losha	alket: it's off topic, but you don't really want to give your mom a beta release. Give here 9.10 instead...			ms
+ubuntu	irc	1/17/2011	sugoruyo	slie: your mom codes binary?			ms
+ubuntu	irc	3/1/2011	geoffmcc	gsp2009: lol i assumed cause it was your mom it was windows. prob not			ms
+ubuntu	irc	5/8/2011	LAcan	Curtman, your mom's a gamer??			ms
+ubuntu	irc	1/11/2005	omac	any ubuntu experts here? I'm looking for some xine tips...c'mon anyone. Aunt Tillie?			ms
+ubuntu	irc	1/11/2005	regeya	aunt tillie is an esr invention, right?			ms
+ubuntu	irc	1/11/2005	regeya	esr thinks aunt tillie is retarded. I'm insulted.			ms
+ubuntu	irc	5/28/2005	bigfoot	resiak, i think i'm going to give galeon a try. Scapor recommended epiphany, but i think that it's geared towards the non-technical Aunt Tillie.			ms
+ubuntu	irc	5/30/2005	bigfoot	topyli, you tell me know, but is it necessary for me to remember it? What about for Aunt Tillie who, aside from the game she has downloaded and seeks to remove, has no idea of which stuff to remove?			ms
+ubuntu	irc	2/23/2007	Blacken	These are librarians--by which I mean stereotypical Aunt Tillies.			ms
+wordpress	irc	6/1/2009	Anthony_Luth	he was too busy ugooling your mom's goodies to notice ;)			becca
+wordpress	irc	6/2/2009	Anthony_Luth	ansimation, did your boyfriend....err....i mean girlfriend not give you any last night again? ;)			ms
+wordpress	irc	7/11/2009	jeffr0	Just like the rumor of him saying that he was once with a girlfriend one time and she asked him what he was thinking about and he was supposed to say 'her' but he said WordPress and that was the end of that relationship lol			ms
+wordpress	irc	7/20/2009	sivel	no...but his sister is here ;)			ms
+wordpress	irc	7/20/2009	ansimation	it's okay i love your sister			ms
+wordpress	irc	7/22/2009	prometh	and, to top that off, i wouldn't care in person either... i have a girlfriend with boobies.			ms
+wordpress	irc	8/1/2009	Sticky	right guys and gals, I have to skidaddle, have neglected the girlfriend all day getting this product out, so best make amends ;)			ms
+wordpress	irc	10/23/2009	jared^	ok time to head home or my girlfriend might kill me :o			ms
+wordpress	irc	1/29/2010	a456	im gonna get drunk and bang my girlfriend hopefully before i pass out i finish this project so i can relax a bit tomorrow haha			ms
+wordpress	irc	2/25/2010	tw2113	someone may have a grandma in here			ms
+wordpress	irc	8/9/2010	glassfaster	/for grandmas etc			ms
+wordpress	irc	12/28/2010	tw2113	my grandma just hobbled away crying			ms
+wordpress	irc	1/14/2011	iamfriendly	dude, I have to pay the bills and keep my girlfriend in shoes ;)			ms
+wordpress	irc	1/25/2011	_jay	I feel like my mom on a computer now			ms
+wordpress	irc	1/30/2011	KarateKip3	my grandma is still using altavista, but whatever she looks for, it always leads back to google ;)			ms
+wordpress	irc	2/1/2011	tw2113	avoiding the misses by being on IRC			ms
+wordpress	irc	2/7/2011	xXbR0tOZo4NXx___	MadLems hahhaa, weekend planned out now. girlfriend won't be too happy that i'm spending valentines day making a counterstrike plugin, but hey			ms
+wordpress	irc	3/18/2011	royser	dwebb: i feel like an annoying girlfriend			ms
+wordpress	irc	5/11/2011	tw2113	i wish the bot mentioned soap for washing out your mouth and stuff about your mother disapproving of such language			rg
+wordpress	irc	8/8/2011	tw2113	and grandma still doesn't like the poo word			ms
+wordpress	irc	8/23/2011	tw2113	i'm not worried about 100 grandmas			ms
+wordpress	irc	9/3/2011	WebDragon	you wanna explain to grandma who's showing her kids this place why you're being such a <expletive deleted> ?			ms
+wordpress	irc	12/12/2011	helenyhou	it might be, imagine telling your grandma that "it's just a database". everybody is different, starting from the simplest terms is safer			ms
+wordpress	irc	12/12/2011	helenyhou	then again, maybe your grandma is a DBA, what do i know ;)			ms
+wordpress	irc	1/27/2012	AllStruck	my great grandma calls my computer a TV			ms
+wordpress	irc	1/27/2012	SarBear	hope your girlfriend isn't complaing about how much time you spend on this project. :)			ms
+wordpress	irc	2/6/2012	tw2113	::goes to console grandma, who ran away crying			ms
+wordpress	irc	2/6/2012	byte-smasher	wait, grandma has a console?			ms
+wordpress	irc	3/6/2012	e01	i can expect this from my grandma,.. but here... it's some kind of weird			ms
+wordpress	irc	3/8/2012	iamfriendly	my girlfriend just assumes I'm right. She's been trained well, haha			ms
+wordpress	irc	3/27/2012	LindsayMac	obviously, for one, iphone users are heavy internet browsers.. so they aren't someone's mom who doesn't do any browsing. SO immediately you have a pretty solid pool of people to work with..			ms
+wordpress	irc	5/5/2012	tw2113	this is a family room, and now i need to go comfort grandma, who you just offended			ms
+wordpress	irc	5/15/2012	DarkArtist69	think am going to do it with php	Jorijn	DarkArtist69: I prefer my girlfriend	ms
+wordpress	irc	8/9/2012	tw2113	my grandma already shuffled away crying			ms
+wordpress	irc	8/9/2012	tw2113	i meant to say my grandma already walkered away :D			ms
+wordpress	irc	10/5/2012	tw2113	my grandma told me to say that			ms
+wordpress	irc	10/27/2012	populvuh	ultimately your job is to make it as easy to for grandma to find as possible, otherwise you've failed.			ms
+wordpress	irc	12/30/2012	MACscr	you running this on your grandmas dialup?			ms
+wordpress	irc	1/6/2013	ul71m0	its sunday its christmas eve of us ortodox and im here working while girlfriend is screaming that i need to give here more time, i tried to give her money, no luck ...			ms
+wordpress	irc	4/22/2013	Kenshino	I can't count how many times I've had to do so for my girlfriend			ms
+wordpress	irc	4/24/2013	pixolin	ya, that's actually like security by obfuscation. you make it harder. so a grandma couldn't steal the bike.			ms
+wordpress	irc	5/25/2013	tw2113	my grandma is in the corner crying now thanks to Adegans and i			ms
+wordpress	irc	5/30/2013	tw2113	my grandma is in the corner crying			ms
+wordpress	irc	7/3/2013	lenswipee	tw2113: yes, if you're a young woman please drink until you pass out in front of me.			ms
+wordpress	irc	7/10/2013	WebDragon	grandma doesn't like shittake mushrooms either			ms
+wordpress	irc	7/12/2013	Kenshino	My mom still doesn't understand what the start menu is for			ms
+wordpress	irc	7/12/2013	Kenshino	My mom doesn't know how to use the tv remote			ms
+wordpress	irc	7/16/2013	apatton	kissing your sister			ms
+wordpress	irc	8/25/2013	pixolin	I assume she couldn't entirely follow Peter's statements about latest WordPress plugins :P			ms
+wordpress	irc	10/15/2013	pixolin	Seinnd: as far as I know him yet I would imagine he makes a website especially for grandma. "Look, that's how I do itâ€œ			ms
+wordpress	irc	12/12/2013	tw2113	::goes to console grandma			ms
+wordpress	irc	12/12/2013	melee	grandma nooo			ms
+wordpress	irc	1/8/2014	tw2113	::goes to console grandma			ms
+wordpress	irc	1/16/2014	tw2113	trying to let grandma register with facebook accounts, since they're joining while 3million teens flee in 3 years			ms
+wordpress	irc	2/2/2014	tomboy_	family-safe': if you talk like that the next Linus will get told by their mom to "get off that damned Internets", they'll become a firefighter, and urand will never improve :(			ms
+wordpress	irc	3/3/2014	zodiac	this is a problem with a software a grandma can use, most of the people using have a grandmas knowledge about it			ms
+wordpress	irc	5/1/2014	opsec	windows is for grandma or joe shmoe that knows nothing of the computer ;)			ms
+wordpress	irc	5/3/2014	oniMaker	even grandma			ms
+wordpress-dev	irc	7/11/2009	Jane_	because if 'the ui girl' can do it, how shameful for a dev guy not to be able to :)			ms
+wordpress-dev	irc	1/18/2010	dd32	rmccue: Go outside! You're young! Go look at the girls in bikini's while its still ok!			ms
+wordpress-dev	irc	2/12/2010	nacin	My girlfriend's site, possibly unknown to her, is trunk. That way she can tell me about any bugs she notices :P			ms
+wordpress-dev	irc	2/25/2010	janewells	over my head	janewells	i'm just the PR girl, remember?	ms
+wordpress-dev	irc	4/1/2010	PeteMall	this just shows me that I need to go around looking for new girlfriends at all these places... not sure wifey is gonna like it			ms
+wordpress-dev	irc	4/22/2010	technosailor	Supposed to leave Tuesday but the girl made me feel bad and I decided to go home a day early			ms
+wordpress-dev	irc	6/10/2011	iandstewart	I need a typographical icon for ironic school-girl giggling.			ms
+wordpress-dev	irc	6/10/2011	jjj	devious schoolgirls and congressman screenshots... what the heck is going on in here.			ms
+wordpress-sfd	irc	10/4/2012	Siobhan	aim for basic users - I always think of my husband when I'm writing user content	ericandrewlewis	my girlfriend's a little too adept, i'll aim for my mom	ms
+wordpress-sfd	irc	3/13/2013	siobhan	that's a girly theme! I'm thinking I'll do one in red			ms
+wordpress-sfd	irc	9/15/2013	jazzs3quence	.tell trishasalas wow...yr 2014 is very...girly ;p			ms
+wordpress-sfd	irc	9/16/2013	siobhan	I think it's fine - there was that one girl who was confused about design/theme but confusion is good			ms
+wordpress-sfd	irc	11/29/2013	PeterBooker	Clorith: Did I mention I got an email from my Grandma saying she was interested in looking at an Eye Pad (iPad)? haha, so cute!			ms
+wordpress-sfd	irc	11/29/2013	PeterBooker	If my Grandma gets an iPad, she will have cooler gadgets than me! :-/			ms
+wordpress-ui	irc	11/9/2010	JohnONolan	Lmao, dont make me put you two in detention with JaneWells !	JaneWells	i have my own problem teenage girls to supervise, thanks	ms

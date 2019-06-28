@@ -1,0 +1,222 @@
+# Author: Squire, M. & Gazda, R.
+# License: Open Database License 1.0
+# This data twssHicss2015.tsv is made available under the 
+# Open Database License: http://opendatacommons.org/licenses/odbl/1.0/. 
+# Any rights in individual contents of the database are licensed under the 
+# Database Contents License: http://opendatacommons.org/licenses/dbcl/1.0/ 
+#
+# filename: twssHicss2015.tsv
+# explanation: 
+# This data set is part of a larger group of data sets
+# described in the paper below, and hosted on the FLOSSmole.org site. 
+#
+# fields:
+# group: this is the software project
+# medium: this is the type of communication artifact (irc or email)
+# date of chat: 
+# suser: chatter who uttered the setup line
+# setup line: the line that prompted the TWSS joke
+# tuser: chatter who uttered the response twss line
+# response line: the line that includes the double entendre twss
+# coder: the person who coded these responses and setup lines
+#
+# Please cite the paper and FLOSSmole as follows:
+#
+# Citations:
+# Squire, M. & Gazda, R. (2015). FLOSS as a source for profanity 
+# and insults: Collecting the data. In Proceedings of 48th 
+# Hawai'i International Conference on System 
+# Sciences (HICSS-48). IEEE. Hawaii, USA. 5290-5298.
+#
+# Howison, J., Conklin, M., & Crowston, K. (2006). FLOSSmole: A 
+# collaborative repository for FLOSS research data and analyses. 
+# International Journal of Information Technology and Web 
+# Engineering, 1(3), 17–26.
+# 
+group	medium	date of chat	suser	setup line	tuser	response line	coder
+django	irc	1/3/2014	apollo13	FunkyBob: fuck, you are fast	funkybob	that's what SHE said :P	ms
+django	irc	12/18/2013	johnnny22	i'll go simple at first, and grow it as I go :)	johnnny22	thats what she said	ms
+django	irc	11/27/2013	svvitch	and is not necessary to use protection	koirikivi	that's what she said	ms
+django	irc	3/21/2012	eedeep	shaon: so it's small	schinckel	eedeep: That's what she said.	ms
+django	irc	2/23/2012	raydenuni	you're amazing!	funkybob	raydenuni: that's what SHE said! :P	ms
+django	irc	1/30/2012	mgeary	i've got a weird one tonight	pymp	thast what she said	ms
+django	irc	11/19/2011	spersaud	oh yeah oh yeah ? well you aint much help here buddy	funkybob	that's what SHE said!	ms
+django	irc	9/14/2011	joshuajonah	the length issue is the problem	j00bar	joshuajonah: that's what she said	ms
+django	irc	6/25/2011	superdmp	one must go down, in order to come up	mattmcc	That's what she said.	ms
+openstack	irc	11/19/2013	Sam-I-Am	your 'tiny' flavor is a bit... not so tiny	mrproper	That's what she said	rg
+openstack	irc	11/20/2013	Sam-I-Am	the tiny flavor is too tiny	Sam-I-Am	thats what she said	rg
+openstack	irc	11/23/2013	kseifried	just jam it in	Sam-I-Am	thats what she said	rg
+openstack-meeting	irc	11/2/2010	ttx	24 min. I've done shorter.	_0x44	ttx: That's what she said.	rg
+perl6	irc	3/3/2009	pmichaud	that was longer than I expected. Â :-)	diakopter	(that's what she said)	ms
+perl6	irc	3/3/2009	pmichaud	Yeah, I get that a lot. Â :-)	diakopter	(twss, again)	ms
+perl6	irc	3/4/2009	justatheory	Why do people insist in putting things in me???	diakopter	that's what she said?	ms
+perl6	irc	9/24/2009	pmichaud	ok	diakopter	twss.	ms
+perl6	irc	11/5/2009	jnthn	oh! prefix karma!	diakopter	that's what she said!	ms
+perl6	irc	3/6/2010	diakopter	but that's what I said	masak	that's what she said!	ms
+perl6	irc	4/17/2010	p6eval	rakudo 78faa0: OUTPUTÂ«No applicable candidates found to dispatch to for 'infix:<does>'. Available candidates are:â¤:(Mu $do-it-to-me, Role $r)â¤:(Mu $do-it-to-me, ConcreteRole $r)â¤â¤current instr.: 'infix:<but>' pc 300187 (src/gen/core.pir:3700)â¤Â»	diakopter	erm. Â that's what she said.	ms
+perl6	irc	7/31/2010	jnthn	Well fork me!	tadzik	That's what she said!	ms
+perl6	irc	11/20/2010	masak	jnthn: you went immediately to 69? :P	jnthn	masak: That's what she said!	ms
+perl6	irc	4/19/2011	masak	see? it's hard :)	*Â masak	.oO( yeah, yeah, twss... )	ms
+perl6	irc	6/27/2011	masak	I can put my interface out in the sun.	diakopter	that's what she said	ms
+perl6	irc	6/27/2011	PerlJam	masak: it runs off of your body-heat or possibly even your electrochemical interactions	PerlJam	masak: and that's *really* what she said Â :)	ms
+perl6	irc	11/7/2011	masak	it should be biggest.	tadzik	(in different circumstances I'd have said "that's what she said")	ms
+perl6	irc	3/30/2012	moritz	then I don't want to see it	LOLSOME	LOLOLOL That's what she said LOLOLOLOL	ms
+perl6	irc	3/30/2012	cardcha	It wont log in	LOLSOME	LOLOLOL That's what she said LOLOLOLOL	ms
+perl6	irc	3/30/2012	moritz	cardcha: please remove it right now	LOLSOME	LOLOLOL That's what she said LOLOLOLOL	ms
+perl6	irc	3/30/2012	cardcha	I guess it knows that somebody from this ip is already logged in	LOLSOME	LOLOLOL That's what she said LOLOLOLOL	ms
+perl6	irc	3/30/2012	cardcha	OMG	LOLSOME	LOLOLOL That's what she said LOLOLOLOL	ms
+perl6	irc	3/30/2012	cardcha	it worked	LOLSOME	LOLOLOL That's what she said LOLOLOLOL	ms
+perl6	irc	3/30/2012	cardcha	its super annoying	LOLSOME	LOLOLOL That's what she said LOLOLOLOL	ms
+perl6	irc	5/3/2013	TimToady	.oO(Your girlfriend's computer does not reciprocate either...)	adu	that's what she said!	ms
+ubuntu	irc	2/21/2005	Coily	wait... i got it :p	yokomo_	that's what she said	rg
+ubuntu	irc	8/27/2006	Andy	i like the slow	skys123	Andy: thats what she said..	rg
+ubuntu	irc	2/12/2007	NaPsTeR_	it was workinmg fine before	geemy	thats what she said	rg
+ubuntu	irc	7/11/2007	Jordan_U	ant-, Don't use it first	ant-	Jordan_U, thats what she said...	rg
+ubuntu	irc	8/20/2007	naksha	its like poking around in the dark	Mr_Awesome	naksha: thats what she said	rg
+ubuntu	irc	10/15/2007	jdong	Evanlec: that's unusually long....	jdong	(that's what she said)	rg
+ubuntu	irc	10/25/2007	mssever	charlescosmic: Try asking your question, all on one line. Maybe someone will see it	src	that's what she said	rg
+ubuntu	irc	11/24/2007	PederB	hellonull: indeed. things are getting a bit large :P	hellonull	that's what she said	rg
+ubuntu	irc	12/11/2007	cflopez	ok ok finally removed!	achandrashekar	cflopez: thats what she said...lol	rg
+ubuntu	irc	12/25/2007	nickrud	bazhang, my skills are narrow and shallow :)	nushto	nickrud: that's what she said	rg
+ubuntu	irc	1/7/2008	rpj8	Fryguy--: Just because it's faked doesn't mean it doesn't sound good.	debatem1	rpj8: thats what she said. sorry.	rg
+ubuntu	irc	3/19/2008	flowOver	it tightens up alot of holes yes. but thatÅ› what exploits are for	riskbreaker	flowOver.... that's what she said?	rg
+ubuntu	irc	5/5/2008	sertac	others are so slow	weaseal	that's what she said	rg
+ubuntu	irc	6/17/2008	N1N31NCHN41L5	it is over 3 inches in size - how do i retuirn it to normal	gordonjcp	N1N31NCHN41L5: that's what she said	rg
+ubuntu	irc	6/21/2008	IndyGunFreak	Marty81: did you restart right after starting up or something?	webcamwonder	That's what she said? :)	rg
+ubuntu	irc	8/19/2008	moDumass	i might re plug it in, and then unmount it once its been recognised	azn_emo_boi101	thats what she said.	rg
+ubuntu	irc	9/11/2008	orgthingy	wooohooo	aldarsior	orgthingy: that's what SHE said.	rg
+ubuntu	irc	9/25/2008	ubottu	chill, please see my private message	sp0k34	thats what she said	rg
+ubuntu	irc	9/30/2008	gaintsura	take it off and put it back on	uhhhh	thats what she said	rg
+ubuntu	irc	10/13/2008	LjL	meoblast001: well, my personal preference is in favor of KDE, but personal preferences don't really matter her	DaskreecH	LjL: that's what she said	rg
+ubuntu	irc	11/3/2008	Singer2	im: my gf foudn this one for us that is super small.. like its only sticks out out the laptop by .ike .5 inches	fallore	Singer2: THATS WHAT SHE SAID	rg
+ubuntu	irc	11/6/2008	aho_	Unibob|laptop: boot up into the live cd -> follow installation instructions	KableKiB	That's what she said	rg
+ubuntu	irc	1/31/2009	Bsims	Sorry you want fsck	timecist	that's what she said	rg
+ubuntu	irc	2/3/2009	WIGGMPk	kfyit: aye, I should of looked harder online before coming	Lanlost	that's what she said?	rg
+ubuntu	irc	2/21/2009	ubottu	Sorry, I don't know anything about last night	zombrains	that's what she said	rg
+ubuntu	irc	3/5/2009	NDS|Brandon	wow, nice big channel	dft	NDS|Brandon: that's what she said...hey O!	rg
+ubuntu	irc	3/22/2009	xiqtesttest	it was hot AND on carpet	Xunie	thats what she said xiqtesttest	rg
+ubuntu	irc	4/2/2009	OllyG	1391 people in here!!	jarrod	thats what she said	rg
+ubuntu	irc	4/8/2009	Zopiac	is it possible to soft force a cd player to eject?	bytor4232	Zopiac: your probably not shoving it in far enough. Thats what she said.	rg
+ubuntu	irc	4/25/2009	trey__	that wont work cus thats not my prob	mobi-sheep	trey__: That's what she said.	rg
+ubuntu	irc	5/5/2009	KB1JWQ	Zapper: I don't know as I'd say that Windows is terribly insecure any more so than Ubuntu is; it depends on how you harden it.	TX-Dan	that's what she said?	rg
+ubuntu	irc	5/22/2009			WindowSmasher	Hi all! I'm looking for some assistance with the gnome-main-menu / slab. The size has grown out of control (that's what she said). Can anyone assist me in adjusting the size?	rg
+ubuntu	irc	6/10/2009	gangs20003	how large should i make it?	s1gmab3ta	gangs20003: at the risk of being crass, that's what she said	rg
+ubuntu	irc	6/12/2009			abbazabba	edbian: just give it to me first (thats what she said) and if i dont get it i'll ask	rg
+ubuntu	irc	6/24/2009	dva5912	wait wrong channel	mobi-sheep	dva5912: That's what she said.	rg
+ubuntu	irc	8/19/2009	C-S-B	WilliamC2: no, but you need to fsck	WilliamC2	C-S-B, that's what she said	rg
+ubuntu	irc	8/28/2009	ikonia	zophy: PLEASE	DigitalKiwi	that's what she said	rg
+ubuntu	irc	10/18/2009	macman_	hey all trying to mount a ext2 fs and it says its to small or something in dmesg .. any ideas ?	nils_	macman_: it's too small? The kernel is probably just setting up for a "that's what she said"-joke. Paste the actual error message	rg
+ubuntu	irc	11/25/2009	RFXCasey	my name please one more time	leaf-sheep	RFXCasey: That's what she said.	rg
+ubuntu	irc	12/15/2009	Kopachris	You can shrink and grow	ga_sk8er	kopachris thats what she said lol kidding	rg
+ubuntu	irc	1/18/2010	ubottu	njpatel|away, please see my private message	stam	that's what she said	rg
+ubuntu	irc	2/18/2010	floff_	damn, this is hard	shupa	thats what she said	rg
+ubuntu	irc	3/17/2010	jastor	Losha: well .. i cant say there is no possible way of it having some sort of fault .. but its working as it should for what i use it for	Spaztic_One	Jastor, that's what she said.	rg
+ubuntu	irc	3/27/2010	stillinbeta	Guest65879: I haven't tried to mount anything, honestly	Guest65879	stillinbeta: thats what she said	rg
+ubuntu	irc	4/2/2010	notk0	I don't remember If I ever put something in there	^Delta^	that's what she said *cough*	rg
+ubuntu	irc	4/4/2010	theadmin	Froadac: Our repositories are huge lol	christpunk01	thats what she said	rg
+ubuntu	irc	5/9/2010	hellphyre	matcouto: awesome tool	dvrkdvrk0	hellphyre: thats what she said. lol	rg
+ubuntu	irc	5/25/2010	eveningsky	ActionParsnip. No I mean that when there is a video playing it wants to be always on top. If I click another window, the other window becomes active, but totem stays in front of it so I can't see anything. I want it to keep playing but move to the background like any other window would.	ActionParsnip	Eveningsky: there may be an option / pref in totem to always be on top (which is also what SHE said)	rg
+ubuntu	irc	5/29/2010	BakaGaijin	i can't even get anything up	BakaGaijin	also not what she said	rg
+ubuntu	irc	6/14/2010	theadmin	ActionParsnip: Dammit, yours is shorter	ActionParsnip	theadmin: thats what SHE said!!	rg
+ubuntu	irc	6/19/2010	usf	i'm inside it	aeon-ltd	thats what she said	rg
+ubuntu	irc	6/26/2010	greezmunkey	bastid_raZor: totally unplugged?	bastid_raZor	greezmunkey: that is what she said. Hibernate	rg
+ubuntu	irc	7/3/2010	bribroder	linux_is_my_hero, my pleasure	linux_is_my_hero	briboder: thats what she said.	rg
+ubuntu	irc	9/2/2010	ChrisMorgan	That's... fast. Under two seconds.	Aemaeth	ChrisMorgan, that's what she said	rg
+ubuntu	irc	9/23/2010	vrakesh	Xaveo: i would say you have low end hardware	simoncpu	< vrakesh> Xaveo: i would say you have low end hardware <-- that's what she said	rg
+ubuntu	irc	9/23/2010	mkquist	frank___: usually its done in public, might help someone else too	frank___	aah thats what she said :P	rg
+ubuntu	irc	10/8/2010	Stellarium-	room: get a room!	Stellarium-	that's what she said	rg
+ubuntu	irc	12/15/2010	ubusammyn150	use two fingers?	breadcrumb	thats what she said..	rg
+ubuntu	irc	12/25/2010	r007	hmm have you tried fsck it and then trying to mount?	Maahes	r007: that's what she said	rg
+ubuntu	irc	1/7/2011	p_res	RealOpty: Then you have other issues.	RealOpty	thats what she said	rg
+ubuntu	irc	3/23/2011	b1lly	ActionParsnip: a little more advanced plz	SpitfireWP	That's what she said	rg
+ubuntu	irc	4/5/2011	Lcawte	randomuser: I'm mounted but have to go out	randomuser	Lcawte, that's what she said	rg
+ubuntu	irc	4/16/2011	dustin	you ppl are to danm impainet	cgtdk	That's what she said	rg
+ubuntu	irc	4/18/2011	multipass	if i plug one in it checks it out	Seven_Six_Two	I hate it when a perfect opportunity arises for a "that's what she said" joke, and I can't say it because it's not rated G	rg
+ubuntu	irc	5/12/2011	upd	too hard basket ?	Wiggley	TWSS	rg
+ubuntu	irc	6/17/2011	iLuvGirlz	jqpzen that is hard :P	jgpzen	That's what she said,	rg
+ubuntu	irc	7/1/2011	katmagic	(Erm, assuming you want to remove the packagesâ€¦)	Cydd	thats what she said	rg
+ubuntu	irc	8/31/2011	robinduckett	try every hole	damo22	thats what she said	rg
+ubuntu	irc	10/14/2011	selite_	[_miT_]: It said a lot of things it's kinda long.	[_miT_]	selite_: thats what she said?	rg
+ubuntu	irc	10/17/2011	sileni	reisio: my terminal looks bigger without the ugly bottom bar	reisio	sileni: that's what she said	rg
+ubuntu	irc	10/31/2011	Malgorath	lol nvm, it just finished	reisio	Malgorath: twss	rg
+ubuntu	irc	12/17/2011	jdavidboyd	Tech-1: did that, not there....	DarsVaeda	that's what she said :D	rg
+ubuntu	irc	12/20/2011	oddveig_	ssta: Doesn't work. Tried everything. Segmentation fault	oddveig_	that's what she said.	rg
+ubuntu	irc	2/3/2012	chroot	that is not big	reisio	twss	rg
+ubuntu	irc	4/18/2012	pepee	sirriffsalot_, hmm, doesn't look like the correct package	the_legend	that what she said	rg
+ubuntu	irc	5/4/2012	dr_willis	a 50gb hard drive thatss 4 yrs old: they made them that small back then? ;)	gaelfx	that's what she said	rg
+ubuntu	irc	6/24/2012	Lounge	escott: thats interesting, i've always put the boot part in the back	init[dot]d	Lounge thats what she said	rg
+ubuntu	irc	7/3/2012	V3NG3NC3678	that one is a monster	linux_is_my_hero	V3ng3nc3678: thats what she said lol	rg
+ubuntu	irc	7/20/2012	sharif	help me	hazel	that's what she said	rg
+ubuntu	irc	8/3/2012			dante123	gvo, you dont understand....I dont want to use wireless anymore....I want a wired connection now....but cant get it up (that's what she said ;-)	rg
+ubuntu	irc	8/24/2012	MonkeyDust	ActionParsnip was faster	ActionParsnip	MonkeyDust: that's what she said	rg
+ubuntu	irc	8/27/2012	Daghdha_	and inbetween soft and hard	SolarisBoy	Daghdha_: thats what she said	rg
+ubuntu	irc	9/1/2012	user	it's so stupid to spend weeks and days just for small tool !	Catta	and that's what she said	rg
+ubuntu	irc	9/29/2012	Iceman_B	I have no idea where to put what	Iceman_B	(inb4 thats what she said)	rg
+ubuntu	irc	11/29/2012	alusion	that felt cool	SolarisBoy	thats what she said	rg
+ubuntu	irc	1/4/2013	usr13	Graymayre: Is it in now?	Graymayre	(thats what she said)	rg
+ubuntu	irc	1/5/2013	M0rsa	konradUsb. I agree with fresh install being the fastest and easiest	M0rsa	That's what she said...	rg
+ubuntu	irc	1/16/2013	polygons_	philinux: wow, that's really tight!	jacklk	polygons_: That's what she said.	rg
+ubuntu	irc	3/14/2013	ntzrmtthihu777	PudgePacket: what dongle	Seveas	ntzrmtthihu777: TWSS :P	ms
+ubuntu	irc	5/29/2013	sianhulo	marko-_-, I don't think the size should matter	marko-_-	that's what she said	rg
+ubuntu	irc	6/2/2013	histo	walltender: what happens when you try and shutdown?	funnyboy243	That's what she said! :P .	rg
+ubuntu	irc	6/17/2013	Dr_willis	I havent even used an optical disk in ages...	reisio	Dr_willis: twss	ms
+ubuntu	irc	7/30/2013	flick	hmm. i will install it. geogebra is huge it's 138MB!	irssi-mike	flick: that's what she said	rg
+ubuntu	irc	7/30/2013	wilee-nilee	reisio, always short and sweet. ;)	reisio	wilee-nilee: that's what she said	rg
+ubuntu	irc	7/30/2013	BillyZane	oh oh oh oh oh!!	reisio	twss	rg
+ubuntu	irc	8/8/2013	neo1691	eph3meral: I learned that after installing ubuntu, the hard way :P	eph3meral	neo1691: that's what she said	rg
+ubuntu	irc	10/23/2013	smaudet	Oh god this looks even more arcane O.o	reisio	smaudet: twss	rg
+ubuntu	irc	1/2/2014	marcus	ok, so im rdy: http://pastebin.com/irpNSbkb	guardianx	that's what she said	rg
+ubuntu	irc	1/2/2014	MonkeyDust	ActionParsnip was faster :)	ActionParsnip	MonkeyDust: that's what she said	rg
+ubuntu	irc	2/18/2014	none	unfortunately the both require fancy fingering	none	thats what she said	rg
+ubuntu	irc	3/27/2014	NoahGC	it's standalone right	awesomess3	nyl_, that's what she said	rg
+ubuntu	irc	4/29/2014	stefg	goeo_: your version is end of life... please upgrade	stephen_jenkins	that's what she said	rg
+ubuntu	irc	7/30/2014	Spartacus_	TJ - Nice, I think that went in.	Spartacus_	TJ (that's what she said_	rg
+wordpress	irc	7/22/2009	michel_v	Evet: what's your definition of gigantic?	element	luminoso, that's what she said ;)	ms
+wordpress	irc	9/10/2009	sivel	I'm quick	Limp_Trizkit	TWSS	rg
+wordpress	irc	9/25/2009	Cptnodegard	wohoo its big	Limp_Trizkit	that's what she said	ms
+wordpress	irc	9/25/2009	alxndr	gotta keep track of these things	Limp_Trizkit	twss	ms
+wordpress	irc	10/20/2009	jared^	he is too fast	jared^	(thats what she said)	rg
+wordpress	irc	2/11/2010	babele	maxaud, you are so gentle	maxaud	babele: that's what she said.	rg
+wordpress	irc	3/10/2010	DarkED	thened: i think i found one that will fit... thank you!	MNSweet	that's what she said	rg
+wordpress	irc	3/31/2010	Viper007Bond	ACTION goes back to reading code	jdingman	Viper007Bond, that's what she said ;)	ms
+wordpress	irc	4/27/2010	mark0	that is ugly :O	jmaister	That's what she said	rg
+wordpress	irc	12/14/2010	lolzz	can i see yours?	AdamDV|iPad	(thats what she said)	rg
+wordpress	irc	1/20/2011	john-michael	wycks: yeah, it's a tough nut to crack	sha1sum	that's what she said	rg
+wordpress	irc	1/20/2011	john-michael	that's not very family friendly	wycks	that is also what she said	rg
+wordpress	irc	3/10/2011	tw2113	wake those bones up	Jester831	that's what she said	rg
+wordpress	irc	3/24/2011	ClarkKent	well.. it's just a one-tem site	RingZer0	thats what she said...	rg
+wordpress	irc	5/16/2011	rickybobby_	thanks, u nailed it	tw2113	that's what she said..............i wish	rg
+wordpress	irc	5/19/2011	simonbaumer	MadLems: I appreciate the quick and dirty and the long and rewarding	MadLems	simonbaumer: that's what she said	rg
+wordpress	irc	8/9/2011	PaperBoy	damn you're fast	Narcissus	that's what she said	rg
+wordpress	irc	11/9/2011	DarkArtist69	never used German...	tacoburgler	thats what she said	rg
+wordpress	irc	11/24/2011	jizzy	hey any core hackers in chat?	doncams	i can hack any core... that's what she said	rg
+wordpress	irc	11/24/2011	jizzy	Shawn: this is a good hack	doncams	jizzy, that's what she said	rg
+wordpress	irc	2/4/2012	Comet	been a long.. hard.. week.	Comet	that's what she said.	rg
+wordpress	irc	2/13/2012	ParanoidGal	tw2113 stop poking women it's not polite	tw2113	that's what she said	rg
+wordpress	irc	2/15/2012	theBrettman	length is good	tw2113	that's what she said?	rg
+wordpress	irc	2/20/2012	tw2113	my experienece hasn't had many if any issues, yes	donCams	tw2113: that's what she said	rg
+wordpress	irc	0000-00-00	AllStruck	you gotta relax the jaw	jeffvee	::thinks that's what she said	rg
+wordpress	irc	0000-00-00	AllStruck	ninnypants: you're so good, I'd love to work with you	tw2113	that's what she said?	rg
+wordpress	irc	7/1/2012	arooni-mobile	yeah i'll make it alittle harder	KnyghtMare	twss	ms
+wordpress	irc	9/6/2012	georgestephanis	Every time I do it, I get a little giddy over how easy it was.	tw2113	that's what she said?	rg
+wordpress	irc	11/24/2012	tw2113	don't mind me, i just have something in my face	miqrogroove	twss	ms
+wordpress	irc	12/19/2012	invisib1	I suck so hard. Thanks buddy :D	myosotis	that's what she said	rg
+wordpress	irc	1/30/2013	osoba	there is probably some stripping involved DrJ	neteffect	that's what she said	rg
+wordpress	irc	2/6/2013	pixolin	contract is such a hard word for it :D	tw2113	that's what she said	rg
+wordpress	irc	3/23/2013	Olof86	it makes it bigger then what it is	Susan	twss	ms
+wordpress	irc	5/15/2013	tw2113	we came separately, for the record	tw2113	i'll kick anyone who says "that's what she said"	rg
+wordpress	irc	5/20/2013	pixolin	I don't like the sliders too much which slide a large image entirely from one side to the other. looking at that makes me dizzy. I prefer if the images only fade. and for that + responsiveness, viljamis' slider is best. so damn small.	Kenshino_	That's not what she said	rg
+wordpress	irc	5/21/2013	tw2113	deep, yet simple all at once	jeff_sebring	tw2113, is that what she said?	rg
+wordpress	irc	6/11/2013	lenswipee	tw2113: sounds hard	tw2113	that's what she said	rg
+wordpress	irc	7/2/2013	Fraz	plus when i played it the ui was sooooo tiny it gave me a headache	til4k	thats what she said	rg
+wordpress	irc	12/27/2013	tw2113	don't blame the actions of amateurs before you on WordPress as a whole	fris	thats what she said	rg
+wordpress	irc	12/28/2013	spmlucas	ah, ide. I'm happy with sublimetext - I'm easy to please	tw2113	that's what she said spmlucas	ms
+wordpress	irc	3/3/2014	fris	size has nothing to do with it	jphase	that's what she said	rg
+wordpress	irc	4/7/2014	pixolin	go to wp-content, rename the plugins folder to plugins.bak, try to access your backend	Ward	that's what she said	rg
+wordpress	irc	4/18/2014	oniMaker	Limp_Trizkit: It's unsalted, but it's quite salty.	jphase	is that what she said or?	ms
+wordpress-dev	irc	2/19/2010	nacin	it's in.	miqrogroove	That's what she said >_>	rg
+wordpress-dev	irc	4/25/2010	GlennAnsley	thanks sivel. nice little post btw	GlennAnsley	the correct response was "that's what she said"	rg
+wordpress-dev	irc	6/8/2010	dd32	rboren: Throw enough hardware at anything, and performance will always scale ;)	Cags	That's what she said.	rg
+wordpress-dev	irc	5/12/2011	JaneWells	that finger doesn't work anymore	jjj-m	There's a twss joke in there somewhere.	ms
+wordpress-dev	irc	7/28/2012	c3mdigital	wow thats huge	vegasgeek	ignoring the obvious TWSS joke, yeah. Somethings odd.	ms
+wordpress-dev	irc	12/10/2012	helenyhou	oh, must have missed that part	nacin	helenyhou: she said to me	ms
