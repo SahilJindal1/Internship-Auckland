@@ -5,4 +5,4 @@ The objective of this project is to detect the toxic comments between developers
 
 
 
-### Will add the codes soon. Thanks for the wait.
+### Contains only dataset
